@@ -7,10 +7,10 @@ hugo --gc --minify
 rm -rf /tmp/file_public
 cp -r public /tmp/file_public
 
-# 回 main，提交原始碼
+# 回 master，提交原始碼
 git add .
 git commit -m "Update blog"
-git push origin main
+git push origin master
 
 # 切 pages
 git checkout pages
@@ -27,4 +27,4 @@ git commit -m "Deploy Hugo site"
 git push origin pages
 
 # 回主分支
-git checkout main
+git checkout master
