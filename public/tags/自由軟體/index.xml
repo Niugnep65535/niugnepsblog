@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>自由軟體 on Niugnep 的部落格</title>
+    <link>http://localhost:1313/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link>
+    <description>Recent content in 自由軟體 on Niugnep 的部落格</description>
+    <generator>Hugo</generator>
+    <language>zh-Hant</language>
+    <atom:link href="http://localhost:1313/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

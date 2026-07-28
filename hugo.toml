@@ -1,0 +1,36 @@
+baseURL = 'https://niugnep.idv.tw/'
+locale = 'zh-Hant'
+title = 'Niugnep 的部落格'
+theme = "PaperMod"
+[params]
+  favicon = "/favicon.png"
+
+[[menu.main]]
+  name = "文章"       # 顯示在選單上的文字
+  url = "/posts/"     # 點擊後的連結
+  weight = 10         # 排序（數字越小越靠左）
+
+[[menu.main]]
+  name = "標籤"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  name = "我推"
+  url = "/recommend/"
+  weight = 30
+
+[[menu.main]]
+  name = "關於我"
+  url = "/about/"
+  weight = 40
+
+[[menu.main]]
+  name = "現況"
+  url = "/now/"
+  weight = 50
+
+[[menu.main]]
+  name = "裝備"
+  url = "/inventory/"
+  weight = 50
