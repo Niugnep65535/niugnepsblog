@@ -1,6 +1,6 @@
 ---
 title: 我，還是換到Hugo了
-date: 2026-07-21
+date: 2026-07-28
 tags:
 - 部落格
 - Hugo

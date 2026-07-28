@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Niugnep 的部落格</title><link>https://niugnep.idv.tw/</link><description>Recent content on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Niugnep 的近況</title><link>https://niugnep.idv.tw/now.html</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/now.html</guid><description>&lt;h2 id="生活方面"&gt;生活方面&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Niugnep 的部落格</title><link>https://niugnep.idv.tw/</link><description>Recent content on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Tue, 28 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/index.xml" rel="self" type="application/rss+xml"/><item><title>Niugnep 的近況</title><link>https://niugnep.idv.tw/now.html</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/now.html</guid><description>&lt;h2 id="生活方面"&gt;生活方面&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;住在新北市板橋區：學校、生活跟熟悉的食物都在這，暫時搬不走了&lt;/li&gt;
 &lt;li&gt;戒手機接近兩年了：從之前被加上Family Link後就比較有克制了&lt;/li&gt;
@@ -29,70 +29,82 @@
 &lt;li&gt;&lt;a href="https://www.youtube.com/watch?v=gcfLCa-FcvM"&gt;《私塾》童話PV&lt;/a&gt;：快聽到爆了，超好聽&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.leaftechblog.cloudns.biz/"&gt;Leaftechblog&lt;/a&gt;：駭客大老的超酷部落格&lt;/li&gt;
 &lt;li&gt;&lt;a href="https://www.facebook.com/media/set/?set=a.567135586789861&amp;amp;type=3"&gt;《我與我的甲狀腺癌》&lt;/a&gt;：其實是我媽跟她的甲狀腺癌——已康復莫擔心&lt;/li&gt;
-&lt;/ul&gt;</description></item><item><title>我推的站點</title><link>https://niugnep.idv.tw/recommend.html</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/recommend.html</guid><description>&lt;p&gt;這也是一個類似友站的地方。&lt;br&gt;
+&lt;/ul&gt;</description></item><item><title>我，還是換到Hugo了</title><link>https://niugnep.idv.tw/posts/switch-to-hugo.html/</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/switch-to-hugo.html/</guid><description>&lt;p&gt;因為我發現我改這倉庫十次有九次在修bug，為了讓我能更專心在寫作上，我決定不再使用我自製的SSG。&lt;/p&gt;
+&lt;h2 id="會有什麼影響"&gt;會有什麼影響&lt;/h2&gt;
+&lt;p&gt;對我而言：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;寫起來更順&lt;/li&gt;
+&lt;li&gt;檔案不會亂落&lt;/li&gt;
+&lt;li&gt;可能需要時間適應
+對讀者：&lt;/li&gt;
+&lt;li&gt;更好的排版（我審美是真不好）&lt;/li&gt;
+&lt;li&gt;可能要重新訂閱RSS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;大概這樣吧。&lt;/p&gt;
+&lt;p&gt;這篇文章算是一個紀錄，請多指教啦！&lt;/p&gt;</description></item><item><title>我推的站點</title><link>https://niugnep.idv.tw/recommend.html</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/recommend.html</guid><description>&lt;p&gt;這也是一個類似友站的地方。&lt;br&gt;
 不過我也（為什麼是「也」呢）沒有與他人交換連結，&lt;br&gt;
 所以只有推薦而非直接叫友站啦&amp;gt;_&amp;lt;&lt;br&gt;
 出場順序憑我心情，我想排哪就排哪（bruh）。&lt;/p&gt;
 &lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th style="text-align: left"&gt;部落格名稱/連結&lt;/th&gt;
-&lt;th style="text-align: left"&gt;客觀介紹(＊表示來自該網站官方介紹)&lt;/th&gt;
-&lt;th style="text-align: left"&gt;個人評語&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://yoruhosimi.pixnet.net/blog/"&gt;夜星見-The Never Ending Dreaming&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;夜星見的創作用部落格＊&lt;/td&gt;
-&lt;td style="text-align: left"&gt;我媽的吃灰部落格，媽媽一定得放第一個對吧&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://ivonblog.com/"&gt;Ivon的部落格&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;分享GNU/Linux情報、自由開源軟體、電腦手機資訊、人文思辨的所在＊&lt;/td&gt;
-&lt;td style="text-align: left"&gt;就是他讓我跑來用Arch&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://mamegoodbean.pixnet.net/blog/"&gt;豆子 Bean&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;豆子在痞客邦的小天地＊&lt;/td&gt;
-&lt;td style="text-align: left"&gt;我的舊部落格，歡迎盜墓&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://program-think.blogspot.com/?m=1"&gt;编程随想的博客&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;中國大陸IT行業從業者、部落客作家、異見人士。&lt;/td&gt;
-&lt;td style="text-align: left"&gt;&lt;em&gt;誰說淤泥滿身的不算英雄？&lt;/em&gt;&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://wiwi.blog/"&gt;Wiwi 官大為的部落格&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;Wiwi 官大為發廢文和分享經驗的地方&lt;/td&gt;
-&lt;td style="text-align: left"&gt;很少看到用GrapheneOS的人了&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://www.stallman.org/"&gt;Richard Stallman&amp;rsquo;s Personal Site&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;Richard Stallman的個人網站&lt;/td&gt;
-&lt;td style="text-align: left"&gt;bro已經走火入魔了&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://fatapple0406.github.io/"&gt;A吉胖的部落格&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;放置各種隨興創作、日常紀錄和人生啟發的地方＊&lt;/td&gt;
-&lt;td style="text-align: left"&gt;「喜好冷門到無處討論」我也一個樣lol&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://www.leaftechblog.cloudns.biz/"&gt;Leaftechblog&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;Leaf的科技部落格&lt;/td&gt;
-&lt;td style="text-align: left"&gt;挖過CVE的大佬&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://blog.samhacker.xyz/"&gt;SamHacker Blog&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;一個熱愛 Coding 的高中生的科技部落格&lt;/td&gt;
-&lt;td style="text-align: left"&gt;這麼可愛一定是男孩子對吧&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td style="text-align: left"&gt;&lt;a href="https://itsxiaobai.github.io/"&gt;It&amp;rsquo;s小白不是小白&lt;/a&gt;&lt;/td&gt;
-&lt;td style="text-align: left"&gt;喜歡開源跟自由軟體，偶爾玩一下混音的高中生&lt;/td&gt;
-&lt;td style="text-align: left"&gt;哥們部落格太像Wiwi的了吧&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
+	&lt;thead&gt;
+			&lt;tr&gt;
+					&lt;th style="text-align: left"&gt;部落格名稱/連結&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;客觀介紹(＊表示來自該網站官方介紹)&lt;/th&gt;
+					&lt;th style="text-align: left"&gt;個人評語&lt;/th&gt;
+			&lt;/tr&gt;
+	&lt;/thead&gt;
+	&lt;tbody&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://yoruhosimi.pixnet.net/blog/"&gt;夜星見-The Never Ending Dreaming&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;夜星見的創作用部落格＊&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;我媽的吃灰部落格，媽媽一定得放第一個對吧&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://ivonblog.com/"&gt;Ivon的部落格&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;分享GNU/Linux情報、自由開源軟體、電腦手機資訊、人文思辨的所在＊&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;就是他讓我跑來用Arch&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://mamegoodbean.pixnet.net/blog/"&gt;豆子 Bean&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;豆子在痞客邦的小天地＊&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;我的舊部落格，歡迎盜墓&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://program-think.blogspot.com/?m=1"&gt;编程随想的博客&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;中國大陸IT行業從業者、部落客作家、異見人士。&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;&lt;em&gt;誰說淤泥滿身的不算英雄？&lt;/em&gt;&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://wiwi.blog/"&gt;Wiwi 官大為的部落格&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Wiwi 官大為發廢文和分享經驗的地方&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;很少看到用GrapheneOS的人了&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://www.stallman.org/"&gt;Richard Stallman&amp;rsquo;s Personal Site&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Richard Stallman的個人網站&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;bro已經走火入魔了&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://fatapple0406.github.io/"&gt;A吉胖的部落格&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;放置各種隨興創作、日常紀錄和人生啟發的地方＊&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;「喜好冷門到無處討論」我也一個樣lol&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://www.leaftechblog.cloudns.biz/"&gt;Leaftechblog&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;Leaf的科技部落格&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;挖過CVE的大佬&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://blog.samhacker.xyz/"&gt;SamHacker Blog&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;一個熱愛 Coding 的高中生的科技部落格&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;這麼可愛一定是男孩子對吧&lt;/td&gt;
+			&lt;/tr&gt;
+			&lt;tr&gt;
+					&lt;td style="text-align: left"&gt;&lt;a href="https://itsxiaobai.github.io/"&gt;It&amp;rsquo;s小白不是小白&lt;/a&gt;&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;喜歡開源跟自由軟體，偶爾玩一下混音的高中生&lt;/td&gt;
+					&lt;td style="text-align: left"&gt;哥們部落格太像Wiwi的了吧&lt;/td&gt;
+			&lt;/tr&gt;
+	&lt;/tbody&gt;
 &lt;/table&gt;</description></item><item><title>裝備欄</title><link>https://niugnep.idv.tw/inventory.html</link><pubDate>Tue, 28 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/inventory.html</guid><description>&lt;p&gt;這個地方參考了&lt;a href="https://wiwi.blog/use"&gt;Wiwi 官大為的部落格的《Wiwi 現在愛用什麼》&lt;/a&gt;，&lt;br&gt;
 肯定會雷同，別擔心，都我寫的awa&lt;/p&gt;
 &lt;blockquote&gt;
@@ -191,7 +203,7 @@
 &lt;li&gt;日常：在學校的生活、平常的幹話&lt;br&gt;
 此外，這個部落格所有文章，皆由本人撰寫。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;img alt="我不是機器人" loading="lazy" src="https://niugnep.idv.tw/notbyai.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://niugnep.idv.tw/notbyai.png" alt="我不是機器人"&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id="怎麼找我"&gt;怎麼找我？&lt;/h3&gt;
 &lt;p&gt;&lt;a href="https://x.com/stupidestjack"&gt;Twitter / X&lt;/a&gt; (@stupidestjack)&lt;br&gt;
@@ -217,29 +229,17 @@ GrapheneOS我幾乎用不到它的功能；LineageOS我雖然有興趣但玩過�
 此外把我推出GrapheneOS的還有小白（&lt;a href="https://itsxiaobai.github.io/"&gt;這裡&lt;/a&gt;）。他之前在寄信給我一堆留言時提到，GrapheneOS+Pixel耗電跟發燙都很扯。其實我覺得合理，畢竟每次解鎖螢幕畫面都要動到加密硬碟確實麻煩，而且我也沒有那種很扯的資安要求。&lt;/p&gt;
 &lt;h2 id="使用體驗"&gt;使用體驗&lt;/h2&gt;
 &lt;p&gt;先上截圖：&lt;br&gt;
-&lt;img alt="鎖定畫面" loading="lazy" src="https://i.meee.com.tw/hGbSrEM.webp"&gt;&lt;img alt="主畫面" loading="lazy" src="https://i.meee.com.tw/Q1dNTjy.webp"&gt;&lt;br&gt;
+&lt;img src="https://i.meee.com.tw/hGbSrEM.webp" alt="鎖定畫面"&gt;&lt;img src="https://i.meee.com.tw/Q1dNTjy.webp" alt="主畫面"&gt;&lt;br&gt;
 只能說：真的好用。&lt;br&gt;
 身為一個能把KDE改成MATE界面的屁孩（當然比不上那些改成tiling wm樣式的），crDroid那個設定畫面簡直把我感動哭了。&lt;br&gt;
 最重要的是沒有Google，我終於不用自稱half-degoogle了！太棒啦！&lt;/p&gt;
 &lt;p&gt;咳咳。這只是第一天，還沒什麼好講的。以後再寫
-&lt;a href="tech-otaku-part-3"&gt;下集預告（404的話就是還沒寫）&lt;/a&gt;&lt;/p&gt;</description></item><item><title>我，還是換到Hugo了</title><link>https://niugnep.idv.tw/posts/switch-to-hugo.html/</link><pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/switch-to-hugo.html/</guid><description>&lt;p&gt;因為我發現我改這倉庫十次有九次在修bug，為了讓我能更專心在寫作上，我決定不再使用我自製的SSG。&lt;/p&gt;
-&lt;h2 id="會有什麼影響"&gt;會有什麼影響&lt;/h2&gt;
-&lt;p&gt;對我而言：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;寫起來更順&lt;/li&gt;
-&lt;li&gt;檔案不會亂落&lt;/li&gt;
-&lt;li&gt;可能需要時間適應
-對讀者：&lt;/li&gt;
-&lt;li&gt;更好的排版（我審美是真不好）&lt;/li&gt;
-&lt;li&gt;可能要重新訂閱RSS&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;大概這樣吧。&lt;/p&gt;
-&lt;p&gt;這篇文章算是一個紀錄，請多指教啦！&lt;/p&gt;</description></item><item><title>手機壞囉</title><link>https://niugnep.idv.tw/posts/phone-broken.html/</link><pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/phone-broken.html/</guid><description>&lt;p&gt;是的，正如標題所示，我手機壞了。&lt;/p&gt;
+&lt;a href="tech-otaku-part-3"&gt;下集預告（404的話就是還沒寫）&lt;/a&gt;&lt;/p&gt;</description></item><item><title>手機壞囉</title><link>https://niugnep.idv.tw/posts/phone-broken.html/</link><pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/phone-broken.html/</guid><description>&lt;p&gt;是的，正如標題所示，我手機壞了。&lt;/p&gt;
 &lt;h2 id="案發現場"&gt;案發現場&lt;/h2&gt;
 &lt;p&gt;截至打這篇文章為止，我用的還是Motorola的旗艦折疊機：Motorola razr 40 ultra，配上原生系統half-degoogling的方案。 &lt;br&gt;
 然後就在昨天晚上，我把手機往床上一丟，我弟沒看好一個肘擊——&lt;br&gt;
 悲劇，就這麼發生了。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="悲劇現場" loading="lazy" src="https://i.meee.com.tw/RNabsEG.webp"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/RNabsEG.webp" alt="悲劇現場"&gt;&lt;/p&gt;
 &lt;h2 id="折疊手機的缺陷"&gt;折疊手機的缺陷&lt;/h2&gt;
 &lt;p&gt;那其實這就是折疊機一個很大的問題——脆弱。&lt;br&gt;
 因為折疊手機使用的是所謂「柔性OLED」，本身就夠脆，加上這貨大概用的是「透明聚醯亞胺薄膜」（CPI），比更旗艦的超薄柔性玻璃還要弱不少，不然不至於一個肘擊就報廢。（註1）&lt;/p&gt;
@@ -327,7 +327,7 @@ Arch Linux是一個從最小基本系統開始安裝的Linux發行版，你需�
 &lt;p&gt;uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 位使用者（來自Firefox Add-ons網站，截至2026/7/11）。&lt;br&gt;
 而它在我的網站裡查出了幾個廣告呢？答案是：&lt;br&gt;
 &lt;strong&gt;0個。&lt;/strong&gt;&lt;br&gt;
-&lt;img alt="沒廣告喔！awa" loading="lazy" src="https://i.meee.com.tw/GQK1GIa.png"&gt;&lt;br&gt;
+&lt;img src="https://i.meee.com.tw/GQK1GIa.png" alt="沒廣告喔！awa"&gt;&lt;br&gt;
 以此可證明，我沒在網站裡塞任何廣告或者追蹤器。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;其實開啟文章後由於Giscus，網站連接數量會從一個變成三個。&lt;/p&gt;
@@ -383,7 +383,7 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 反對這場，&lt;br&gt;
 可謂殺死未成年人網路環境的drama。&lt;/p&gt;</description></item><item><title>沒見過這麼醜的Emojis!</title><link>https://niugnep.idv.tw/posts/galaxy-emoji.html/</link><pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/galaxy-emoji.html/</guid><description>&lt;p&gt;用三星的都知道，三星造了自己的Emoji字體。&lt;br&gt;
 我最受不了三星的就是這點。&lt;/p&gt;
-&lt;p&gt;&lt;img alt="🐕💩" loading="lazy" src="https://i.meee.com.tw/wLv9iFc.jpg"&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/wLv9iFc.jpg" alt="🐕💩"&gt;
 可能是因為我個人比較不喜歡這種畫風，&lt;br&gt;
 也就是這腫硬造立體感的黃色人頭，&lt;br&gt;
 看起來很有物理感？我覺得這是無力感。&lt;/p&gt;
@@ -415,7 +415,7 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 大家坐穩了！&lt;/p&gt;
 &lt;p&gt;提示：我使用的是Meee圖床，在國內會有更好的體驗&lt;/p&gt;
 &lt;h2 id="chroot-overdose"&gt;Chroot Overdose&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/jAaLFxi.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/jAaLFxi.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 Arch Linux安裝時需要使用到chroot。
@@ -423,7 +423,7 @@ Arch Linux安裝時需要使用到chroot。
 而這裡便是使用了《主播女孩重度依賴》的二創圖進行三創。&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="arch-超勇的好不好"&gt;Arch 超勇的好不好&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/edO6zlE.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/edO6zlE.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 Arch Linux安裝一般比較硬核，大多Arch使用者會以此自滿。
@@ -431,7 +431,7 @@ Arch Linux安裝一般比較硬核，大多Arch使用者會以此自滿。
 看來是要被登dua郎了（怕&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="gnulinux"&gt;GNU/Linux&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/WiAS43E.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/WiAS43E.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 RMS指的是Richard Stallman，&lt;a href="https://www.fsf.org/"&gt;自由軟體基金會&lt;/a&gt;創始人
@@ -439,7 +439,7 @@ RMS指的是Richard Stallman，&lt;a href="https://www.fsf.org/"&gt;自由軟體
 後來就合而為一，RMS認為只叫Linux讓GNU計畫看起來像空氣，硬要叫GNU/Linux&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="manjaro-rtfm"&gt;Manjaro RTFM&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/m9SNIv2.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/m9SNIv2.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 Manjaro是基於Arch的發行版，但是對新手友善
@@ -447,7 +447,7 @@ Manjaro是基於Arch的發行版，但是對新手友善
 加上原生Arch使用者的自滿，導致這玩意被常常拿來對付問了&lt;del&gt;制帳&lt;/del&gt;簡單問題的Manjaro使用者&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="mint-vs-ubuntu"&gt;Mint vs Ubuntu&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/iBVz6f4.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/iBVz6f4.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 Mint是個對新手極為友善的發行版；Ubuntu是市占率極高的發行版
@@ -455,7 +455,7 @@ Mint是個對新手極為友善的發行版；Ubuntu是市占率極高的發行�
 仔細看會發現Linux前面有個超迷你的「GNU/」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="rm--rf--its-fint"&gt;rm -rf / It&amp;rsquo;s fint&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/Dzq3zWe.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/Dzq3zWe.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 &lt;code&gt;rm -rf /&lt;/code&gt;是個經久不衰的Linux自毀指令，
@@ -463,7 +463,7 @@ Mint是個對新手極為友善的發行版；Ubuntu是市占率極高的發行�
 不要亂用，尤其是父母的電腦，到時候孝都孝不出來&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="admin-vs-root"&gt;Admin vs root&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/flJYtQd.png"&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/flJYtQd.png" alt=""&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;笑點：
 Windows的管理員常常遇上權限或系統限制；
@@ -471,7 +471,7 @@ Linux是你有權限想毀滅世界都行
 記住那句「能力越大，責任越大」&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h2 id="windows-update-大戰-grub"&gt;Windows Update 大戰 GRUB&lt;/h2&gt;
-&lt;p&gt;&lt;img loading="lazy" src="https://i.meee.com.tw/EEp83Ao.png"&gt;&lt;/p&gt;</description></item><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html/</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html/</guid><description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
+&lt;p&gt;&lt;img src="https://i.meee.com.tw/EEp83Ao.png" alt=""&gt;&lt;/p&gt;</description></item><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html/</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html/</guid><description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
 &lt;h2 id="ssg是什麼能吃嗎"&gt;SSG是什麼？能吃嗎&lt;/h2&gt;
 &lt;p&gt;&lt;del&gt;不能吃但很好吃。&lt;/del&gt;
 SSG，全名Static Site Generator，
