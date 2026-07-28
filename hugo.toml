@@ -36,3 +36,6 @@ theme = "PaperMod"
   name = "裝備"
   url = "/inventory/"
   weight = 50
+
+[permalinks]
+  posts = "/posts/:slug.html"
