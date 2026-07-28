@@ -9,33 +9,34 @@ theme = "PaperMod"
 
 [[menu.main]]
   name = "文章"       # 顯示在選單上的文字
-  url = "/posts/"     # 點擊後的連結
+  url = "/posts"     # 點擊後的連結
   weight = 10         # 排序（數字越小越靠左）
 
 [[menu.main]]
   name = "標籤"
-  url = "/tags/"
+  url = "/tags"
   weight = 20
 
 [[menu.main]]
   name = "我推"
-  url = "/recommend/"
+  url = "/recommend.html"
   weight = 30
 
 [[menu.main]]
   name = "關於我"
-  url = "/about/"
+  url = "/about.html"
   weight = 40
 
 [[menu.main]]
   name = "現況"
-  url = "/now/"
+  url = "/now.html"
   weight = 50
 
 [[menu.main]]
   name = "裝備"
-  url = "/inventory/"
+  url = "/inventory.html"
   weight = 50
 
 [permalinks]
-  posts = "/posts/:slug.html"
+  posts = "/posts/:contentbasename.html"
+  page = "/:contentbasename.html"

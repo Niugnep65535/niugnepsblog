@@ -3,6 +3,7 @@ title: 裝備欄
 date: 2026-07-28
 draft: false
 comments: false
+url: "/inventory.html"
 ---
 這個地方參考了[Wiwi 官大為的部落格的《Wiwi 現在愛用什麼》](https://wiwi.blog/use)，  
 肯定會雷同，別擔心，都我寫的awa  

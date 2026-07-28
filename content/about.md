@@ -3,6 +3,7 @@ title: 關於我
 date: 2026-07-28
 draft: false
 comments: false
+url: "/about.html"
 ---
 大家好，我是Niugnep， 一個喜歡開源社群，八升九的學生。
 

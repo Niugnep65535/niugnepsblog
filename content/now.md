@@ -3,6 +3,7 @@ title: Niugnep 的近況
 date: 2026-07-28
 draft: false
 comments: false
+url: "/now.html"
 ---
 
 ## 生活方面

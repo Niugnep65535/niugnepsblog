@@ -3,6 +3,7 @@ title: 我推的站點
 date: 2026-07-28
 draft: false
 comments: false
+url: "/recommend.html"
 ---
 這也是一個類似友站的地方。  
 不過我也（為什麼是「也」呢）沒有與他人交換連結，  
