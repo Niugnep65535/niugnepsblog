@@ -6,6 +6,88 @@
     <description>Recent content in 網頁設計 on Niugnep 的部落格</description>
     <generator>Hugo</generator>
     <language>zh-Hant</language>
+    <lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我寫了個自己的SSG...</title>
+      <link>http://localhost:1313/posts/made-my-ssg/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/made-my-ssg/</guid>
+      <description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
+&lt;h2 id=&#34;ssg是什麼能吃嗎&#34;&gt;SSG是什麼？能吃嗎&lt;/h2&gt;
+&lt;p&gt;&lt;del&gt;不能吃但很好吃。&lt;/del&gt;
+SSG，全名Static Site Generator，
+翻譯即為靜態網站生成器。
+靜態網站指的是幾乎不依賴JavaScript腳本，
+就能顯示內容的網站，比如我說過很喜歡的&lt;a href=&#34;ivonblog.com&#34;&gt;Ivon&lt;/a&gt;，
+他的部落格就是用SSG生成，讓不使用JS的使用者也能閱讀。&lt;/p&gt;
+&lt;h2 id=&#34;那為啥你說不知道為啥偏偏自己寫&#34;&gt;那為啥你說不知道為啥偏偏自己寫？&lt;/h2&gt;
+&lt;p&gt;因為SSG這玩意其實市面上一堆。
+我個人一方面希望部落格按自己的方式寫，
+另一方面我幾乎沒用過任何SSG。
+這裡讓AI舉了幾個例子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jekyll&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;li&gt;VitePress
+其實我也只有用Jekyll，
+用自己的腳本生成完再丟給GitHub生一次Pages才能看，
+窮啊，誰叫Pages那麼香，一毛不花就能架網站。
+但Jekyll不符合我要求啊，我有sitemap、rss什麼的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;寫了哪些檔案&#34;&gt;寫了哪些檔案？&lt;/h2&gt;
+&lt;p&gt;這些吧，應該算簡潔了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;headtail.py：建立頁首跟頁尾&lt;/li&gt;
+&lt;li&gt;htmlmaker.py：填空題，配合format建立各個網頁&lt;/li&gt;
+&lt;li&gt;markdown.py：讓AI寫的MD轉HTML，&lt;!-- raw HTML omitted --&gt;不用markdown模組是為了在不同裝置上使用&lt;/li&gt;
+&lt;li&gt;metadata.py：就是網站一大堆Metadatas的生成器&lt;/li&gt;
+&lt;li&gt;timeline.py：建置我的動態牆&lt;/li&gt;
+&lt;li&gt;xmlbuild.py：建置sitemap跟rss&lt;/li&gt;
+&lt;li&gt;build.py：充其量就是拼積木
+沒啦awa
+是不是很簡潔呢（自肥）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;有哪些坑&#34;&gt;有哪些坑？&lt;/h2&gt;
+&lt;p&gt;超多啊&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI寫的MD生成器缺斤少兩，應該是指令沒下對&lt;/li&gt;
+&lt;li&gt;單雙引號不能亂用（ex. &lt;code&gt;f&amp;quot;在雙引號裡的format{i[&amp;quot;再套雙引號&amp;quot;]}&amp;quot;&lt;/code&gt; 會讓Actions爆炸）&lt;/li&gt;
+&lt;li&gt;htmlmaker要記得怎麼拼接&lt;/li&gt;
+&lt;li&gt;要能看懂哪裡出錯
+這專案重建到現在三天四十個commits，
+其實也挺離譜的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;順帶一題這文章是湊數的，我想拿去給Ivon放友站嘿嘿&lt;/del&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>現在的網站真的有點肥啊，JS濫用之術</title>
+      <link>http://localhost:1313/posts/better-website/</link>
+      <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/better-website/</guid>
+      <description>&lt;p&gt;實不相瞞，我也是&lt;a href=&#34;https://ivonblog.com/&#34;&gt;Ivon的部落格&lt;/a&gt;的讀者。&lt;br&gt;
+我很常看他的文章，寫的也不錯，最近就看他抱怨現在的網站太複雜&lt;br&gt;
+沒看過的出門右轉：&lt;a href=&#34;https://ivonblog.com/posts/in-search-of-the-simple-web-design/&#34;&gt;當今網頁設計框架太肥大了，架站難道不能只用HTML + CSS就搞定？&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Ivon 使用了CC BY-NC-ND，此處僅為引用與redirect&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我也有差不多的感覺。&lt;br&gt;
+Just like &lt;a href=&#34;https://how-i-experience-web-today.com/&#34;&gt;this&lt;/a&gt;，廣告一堆沒有有用的訊息。&lt;br&gt;
+最好笑的是為什麼會在YouTube下載器的網站裡面放那種「你好，我在找一個人做[__]」的廣告&amp;hellip;&lt;/p&gt;
+&lt;p&gt;當然我可沒資格讓大家都不用JavaScript，我自己的&lt;a href=&#34;#&#34;&gt;這個站&lt;/a&gt;就使用JS用到很頻繁。&lt;br&gt;
+不過我只用了三個自建JS文件，一個外部JS文件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scripts/content.js (顯示文章內容)&lt;/li&gt;
+&lt;li&gt;scripts/headtail.js (顯示頁首頁尾)&lt;/li&gt;
+&lt;li&gt;scripts/home.js (顯示主畫面)&lt;/li&gt;
+&lt;li&gt;marked.min.js (Markdown轉HTML)&lt;br&gt;
+沒了awa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;順帶一題，聽說Richard Stallman這位大哥他還在用curl靜態載入網站&amp;hellip;&lt;br&gt;
+不知道我的讀者當中有沒有這種數位修仙者，&lt;br&gt;
+有的話希望能寄個Email給我（自我介紹裡面有）&lt;br&gt;
+那如果我的部落格真的出現這種數位修仙大師…&lt;br&gt;
+他應該是直接fetch的posts-md/*.md吧哈哈&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

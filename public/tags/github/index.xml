@@ -6,6 +6,28 @@
     <description>Recent content in GitHub on Niugnep 的部落格</description>
     <generator>Hugo</generator>
     <language>zh-Hant</language>
+    <lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/github/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>為什麼 Codeberg 比 GitHub 更適合放部落格？</title>
+      <link>http://localhost:1313/posts/codeberg-is-better-than-github/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/codeberg-is-better-than-github/</guid>
+      <description>&lt;p&gt;就在今天，我正式把自己的部落格遷移到了Codeberg。&lt;/p&gt;
+&lt;h2 id=&#34;為什麼&#34;&gt;為什麼？&lt;/h2&gt;
+&lt;p&gt;其實原因很簡單：開放。&lt;br&gt;
+GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。&lt;br&gt;
+此外Codeberg基於自由開源的Forgejo構建，有很強的自由度，並且是真．完全免費。&lt;br&gt;
+連台灣Linux使用者常用的&lt;a href=&#34;https://codeberg.org/chewing&#34;&gt;新酷音專案&lt;/a&gt;都轉到了Codeberg呢！&lt;/p&gt;
+&lt;h2 id=&#34;怎麼弄&#34;&gt;怎麼弄？&lt;/h2&gt;
+&lt;p&gt;與GitHub要在設定裡搞半天不同，Codeberg的Pages極為單純。&lt;br&gt;
+只要把做好的HTML、CSS跟JavaScript全丟到&lt;code&gt;pages&lt;/code&gt;分支，就好了，連設定都不用。&lt;br&gt;
+做好的東西會生成在&lt;code&gt;&amp;lt;你的倉庫名稱&amp;gt;.&amp;lt;你的使用者名稱&amp;gt;.codeberg.page&lt;/code&gt;；如果倉庫名叫pages，就是&lt;code&gt;&amp;lt;你的使用者名稱&amp;gt;.codeberg.page&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;額外的好處&#34;&gt;額外的好處&lt;/h2&gt;
+&lt;p&gt;GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。&lt;br&gt;
+這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。&lt;br&gt;
+此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。&lt;/p&gt;
+&lt;p&gt;看到這裡了，真的不考慮改用Codeberg嗎？&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

@@ -6,6 +6,30 @@
     <description>Recent content in CrDroid on Niugnep 的部落格</description>
     <generator>Hugo</generator>
     <language>zh-Hant</language>
+    <lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/crdroid/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>技術宅．續</title>
+      <link>http://localhost:1313/posts/tech-otaku-part-2/</link>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/tech-otaku-part-2/</guid>
+      <description>&lt;p&gt;書接&lt;a href=&#34;http://localhost:1313/posts/fake-or-real-tech-otaku&#34;&gt;上回&lt;/a&gt;，我提到了我之後的手機會刷掉，但這件事比我想像中來得早。&lt;/p&gt;
+&lt;p&gt;是的各位，我的手機也澈底Degoogle了&amp;hellip;吧。&lt;br&gt;
+總之事情是這樣的，&lt;a href=&#34;http://localhost:1313/posts/phone-broken&#34;&gt;我手機爆裂之後&lt;/a&gt;，我爸居然把他的Pixel 7 Pro給了我——前提是我要把那台壞掉的手機給他，他要用。&lt;br&gt;
+這下可好，我提前拿到了刷機之王啊！&lt;/p&gt;
+&lt;h2 id=&#34;配置&#34;&gt;配置&lt;/h2&gt;
+&lt;p&gt;這次的7 Pro，我選擇的不是上次提到的GrapheneOS和LineageOS，而是選擇了Samsung Galaxy在開源界最大的敵人——crDroid。&lt;br&gt;
+crDroid是一個允許使用者高度自定義的第三方Android韌體——多高度？連設定選單跟字體都能調，你的手機能嗎？&lt;br&gt;
+GrapheneOS我幾乎用不到它的功能；LineageOS我雖然有興趣但玩過了；crDroid我只在阿哲的&lt;a href=&#34;https://youtu.be/ZrScJpREg6E?si=MpaKcotEUjXVgLDS&amp;amp;t=512&#34;&gt;這部影片&lt;/a&gt;被那個設定畫面震撼到。&lt;br&gt;
+此外把我推出GrapheneOS的還有小白（&lt;a href=&#34;https://itsxiaobai.github.io/&#34;&gt;這裡&lt;/a&gt;）。他之前在寄信給我一堆留言時提到，GrapheneOS+Pixel耗電跟發燙都很扯。其實我覺得合理，畢竟每次解鎖螢幕畫面都要動到加密硬碟確實麻煩，而且我也沒有那種很扯的資安要求。&lt;/p&gt;
+&lt;h2 id=&#34;使用體驗&#34;&gt;使用體驗&lt;/h2&gt;
+&lt;p&gt;先上截圖：&lt;br&gt;
+&lt;img alt=&#34;鎖定畫面&#34; loading=&#34;lazy&#34; src=&#34;https://i.meee.com.tw/hGbSrEM.webp&#34;&gt;&lt;img alt=&#34;主畫面&#34; loading=&#34;lazy&#34; src=&#34;https://i.meee.com.tw/Q1dNTjy.webp&#34;&gt;&lt;br&gt;
+只能說：真的好用。&lt;br&gt;
+身為一個能把KDE改成MATE界面的屁孩（當然比不上那些改成tiling wm樣式的），crDroid那個設定畫面簡直把我感動哭了。&lt;br&gt;
+最重要的是沒有Google，我終於不用自稱half-degoogle了！太棒啦！&lt;/p&gt;
+&lt;p&gt;咳咳。這只是第一天，還沒什麼好講的。以後再寫
+&lt;a href=&#34;tech-otaku-part-3&#34;&gt;下集預告（404的話就是還沒寫）&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

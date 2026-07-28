@@ -29,7 +29,7 @@ uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 �
 不信的話你大可去驗證
 
 ## JavaScript
-JavaScript可謂現代網站||與木馬||的命脈。  
+JavaScript可謂現代網站與木馬的命脈。  
 沒有了它，Google、Bing、Yahoo等網站都不能正常使用。  
 那我呢？  
 實測關閉JavaScript之後，所有功能（除了Giscus留言板）都可以正常使用。

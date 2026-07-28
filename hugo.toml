@@ -3,7 +3,9 @@ locale = 'zh-Hant'
 title = 'Niugnep 的部落格'
 theme = "PaperMod"
 [params]
+  ShowSearch = true
   favicon = "/favicon.png"
+  comments = true
 
 [[menu.main]]
   name = "文章"       # 顯示在選單上的文字

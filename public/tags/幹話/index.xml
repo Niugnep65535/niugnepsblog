@@ -6,6 +6,230 @@
     <description>Recent content in 幹話 on Niugnep 的部落格</description>
     <generator>Hugo</generator>
     <language>zh-Hant</language>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/%E5%B9%B9%E8%A9%B1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>真假技術宅</title>
+      <link>http://localhost:1313/posts/fake-or-real-tech-otaku/</link>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/fake-or-real-tech-otaku/</guid>
+      <description>&lt;p&gt;我之前看到Wiwi官大為寫的&lt;a href=&#34;https://wiwi.blog/blog/fake-vs-real-tech-nerd/&#34;&gt;《假宅男 vs 真宅男》&lt;/a&gt;，其實挺有意思的，所以我就拿它來水一篇文章。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;我覺得他的定義不對，應該是真/假技術宅。因為宅男也分很多種，除了宅技術的，也有宅太空宅軍事宅汽車的嘛。&lt;br&gt;
+所以我下面會用「假技術宅」以及「真技術宅」當分類。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;原文&#34;&gt;原文&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;「假宅男追求的是潮流與便利。他們擁有最新、最高階的 iPhone、iPad 和 MacBook；只要裝置感覺稍微有一點點變慢，就會把它賣掉；對於各大社群媒體以及新版 iOS 的新功能瞭若指掌；開車時全靠 Google Maps 導航，就算是回家的路也不例外；把所有的照片和文件都存在 iCloud 和 Google Drive；訂閱了二十個不同的線上服務；口頭禪是『Hey Siri，我的 AirPods 在哪裡？』。&lt;br&gt;
+『真．宅男』追求的是自由與掌控。他們選擇使用十幾年前出品的 ThinkPad X220 筆電，因為它有超好打的鍵盤，以及可以安裝自由的 Libreboot BIOS，作業系統當然是 Linux；手機上裝的是注重隱私的 GrapheneOS 作業系統，當然也不會忘記把 Google Play Services 給關掉；開車時使用離線的 OpenStreetMap 來導航；自己架設了 NAS 和私有雲，自己保管自己的照片和文件；用電腦的時候，80% 的時間都在終端機裡度過；口頭禪是『等等，讓我 &lt;code&gt;ssh&lt;/code&gt; 到我的樹莓派上看看。』」
+&amp;ndash; Wiwi 官大為&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;我的觀點&#34;&gt;我的觀點&lt;/h2&gt;
+&lt;p&gt;大方向上我認同他，但其實要成為真．技術宅，難度還是有點高了。&lt;br&gt;
+比方說，你其實很難做自架的PeerTube（至少以我這個還在拿零用錢的屁孩來講是），也很難真的把網站架在自己家裡，畢竟伺服器耗費的電費、防DDoS的費用等不言而喻。&lt;br&gt;
+然後，除非你是Wiwi那種偏自由的工作或者自行創業，否則在台灣的教育體系以及一堆麻瓜的政府體系（看政府網站就懂了），要做到開放格式真的很困難。&lt;br&gt;
+更不用說是自架AI服務的效能要求了，那個簡直是VRAM無底洞。&lt;/p&gt;
+&lt;h2 id=&#34;我在努力&#34;&gt;我在努力&lt;/h2&gt;
+&lt;p&gt;我雖然還在存錢，但我也在努力朝著真．技術宅邁進。&lt;br&gt;
+手機方面，我在不讓爸媽暴走（刷機，&lt;code&gt;razr 40 ultra&lt;/code&gt;還只有非官方支援）的前提下，盡量不使用Google的工具，比如改用Proton Mail、DuckDuckGo等。&lt;br&gt;
+其次，我也在想辦法自架一些服務，以後我也會買別台電腦（乃至直接拆我媽的電腦）當NAS。&lt;br&gt;
+最重要的，我在電腦方面幾乎完全改用Linux，只剩下有必要時使用Windows To Go（我真的沒辦法）。&lt;/p&gt;
+&lt;h2 id=&#34;展望&#34;&gt;展望&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;我現在正在存錢，打算買X220或X280。&lt;/li&gt;
+&lt;li&gt;十一月的續約機我會買刷機之王Pixel，配合LineageOS或者GrapheneOS。&lt;/li&gt;
+&lt;li&gt;我正準備買二手電腦，當成NAS。&lt;/li&gt;
+&lt;li&gt;我在觀望Google等公司，並將大多數新資料丟到Codeberg或Proton Drive。&lt;/li&gt;
+&lt;li&gt;我在努力向我媽推廣自由軟體，比如Krita。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>I use Arch, btw.</title>
+      <link>http://localhost:1313/posts/i-use-arch-btw/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/i-use-arch-btw/</guid>
+      <description>&lt;p&gt;不知不覺間，我也用了兩個月半的Arch Linux了。&lt;br&gt;
+那剛好，我段考終於是考完了，就來寫一下使用心得吧。&lt;/p&gt;
+&lt;h2 id=&#34;什麼是arch-linux&#34;&gt;什麼是Arch Linux？&lt;/h2&gt;
+&lt;p&gt;&lt;del&gt;世界上最棒的Linux發行版。&lt;/del&gt;&lt;br&gt;
+我不會這麼說，哪個發行版好用因人而異。比如Linus Torvalds用的是Fedora，或者Wiwi官大為用的是Linux Mint等等。&lt;br&gt;
+Arch Linux是一個從最小基本系統開始安裝的Linux發行版，你需要自行增加你需要的工具，從指令行（TTY界面）開始，疊加視窗管理器、桌面環境等工具。&lt;br&gt;
+在維基百科，Arch被形容成適合「不懼怕命令列的中進階Linux使用者」，還挺貼切。&lt;/p&gt;
+&lt;h2 id=&#34;配置&#34;&gt;配置&lt;/h2&gt;
+&lt;p&gt;我在我的GIGABYTE G5 GE上安裝Arch。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;CPU: 12th Gen Intel(R) Core(TM) i5-12500H&lt;/li&gt;
+&lt;li&gt;RAM: DDR4 3200MHz 16GiB(8+8)&lt;/li&gt;
+&lt;li&gt;硬碟: NVMe PCIe 4.0 512GB SSD&lt;/li&gt;
+&lt;li&gt;GPU: NVIDIA GeForce RTX 3050 Mobile&lt;/li&gt;
+&lt;li&gt;螢幕： 1920x1080 144Hz&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;安裝體驗&#34;&gt;安裝體驗&lt;/h2&gt;
+&lt;p&gt;我也重灌過好幾次了。我最近重灌這一次改用了CachyOS核心，但系統仍然是原生Arch。&lt;br&gt;
+安裝教學我就不放了，請在&lt;a href=&#34;https://wiki.archlinux.org&#34;&gt;Arch Wiki&lt;/a&gt;取得具體的教學 :P&lt;br&gt;
+其實對我來講算簡單的，因為Arch Wiki寫的非常詳細，你可以根據自己的要求來修改。&lt;br&gt;
+我使用過非常多桌面環境和視窗管理器，包含KDE Plasma、Sway、Hyprland、i3-wm、GNOME（幾乎沒怎麼用）、Cinnamon、Xfce&amp;hellip;。&lt;br&gt;
+搞了半天我最後選擇了KDE Plasma作為主力，保留Sway作為需要專注時使用。&lt;/p&gt;
+&lt;h2 id=&#34;使用體驗&#34;&gt;使用體驗&lt;/h2&gt;
+&lt;p&gt;無論如何，我以後應該就真的以Arch為主力，不會在主電腦上長期使用其他發行版了。&lt;br&gt;
+首先，Arch Linux在安裝完成之後真的很有成就感，這個懂的都懂好不好。&lt;br&gt;
+此外，Arch的原版倉庫只有開源的方案，連NVIDIA也改為使用&lt;code&gt;nvidia-open&lt;/code&gt;系列驅動程式，這讓我用的非常舒服。&lt;br&gt;
+而且我現在的工作流，不是不需要Wine，就是Wine不能跑，除了Proton（這個算嗎lol），這讓我不需要做太多思考，Pacman裡面幾乎都有我要的軟體；要是真的沒有，我還可以去AUR裡面翻。&lt;/p&gt;
+&lt;h2 id=&#34;另一個讓我難過的點&#34;&gt;另一個讓我難過的點&lt;/h2&gt;
+&lt;p&gt;我們班上&lt;strong&gt;都是文盲&lt;/strong&gt;。
+不是我說啊，班上連作業系統都不知道的大概有一半以上，導致我只要在班上基本上沒同伴，不是自言自語就是找別的話題。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;「I wish everybody was as nice as I am.」&lt;/em&gt; &amp;ndash; Linus Torvalds&lt;br&gt;
+&lt;a href=&#34;https://youtu.be/Q4SWxWIOVBM?si=7TbdoAlGi4jmjLHl&amp;amp;t=76&#34;&gt;這裡來的&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>為什麼 Codeberg 比 GitHub 更適合放部落格？</title>
+      <link>http://localhost:1313/posts/codeberg-is-better-than-github/</link>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/codeberg-is-better-than-github/</guid>
+      <description>&lt;p&gt;就在今天，我正式把自己的部落格遷移到了Codeberg。&lt;/p&gt;
+&lt;h2 id=&#34;為什麼&#34;&gt;為什麼？&lt;/h2&gt;
+&lt;p&gt;其實原因很簡單：開放。&lt;br&gt;
+GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。&lt;br&gt;
+此外Codeberg基於自由開源的Forgejo構建，有很強的自由度，並且是真．完全免費。&lt;br&gt;
+連台灣Linux使用者常用的&lt;a href=&#34;https://codeberg.org/chewing&#34;&gt;新酷音專案&lt;/a&gt;都轉到了Codeberg呢！&lt;/p&gt;
+&lt;h2 id=&#34;怎麼弄&#34;&gt;怎麼弄？&lt;/h2&gt;
+&lt;p&gt;與GitHub要在設定裡搞半天不同，Codeberg的Pages極為單純。&lt;br&gt;
+只要把做好的HTML、CSS跟JavaScript全丟到&lt;code&gt;pages&lt;/code&gt;分支，就好了，連設定都不用。&lt;br&gt;
+做好的東西會生成在&lt;code&gt;&amp;lt;你的倉庫名稱&amp;gt;.&amp;lt;你的使用者名稱&amp;gt;.codeberg.page&lt;/code&gt;；如果倉庫名叫pages，就是&lt;code&gt;&amp;lt;你的使用者名稱&amp;gt;.codeberg.page&lt;/code&gt;。&lt;/p&gt;
+&lt;h2 id=&#34;額外的好處&#34;&gt;額外的好處&lt;/h2&gt;
+&lt;p&gt;GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。&lt;br&gt;
+這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。&lt;br&gt;
+此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。&lt;/p&gt;
+&lt;p&gt;看到這裡了，真的不考慮改用Codeberg嗎？&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>完了，政府開始做更爛的事情了</title>
+      <link>http://localhost:1313/posts/gfw-taiwanese-edition/</link>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/gfw-taiwanese-edition/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;注意！&lt;br&gt;
+本篇文章有過激與政治內容，&lt;br&gt;
+請斟酌觀看。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;各位，你們知道什麼是腦攤政府嗎？&lt;br&gt;
+如果你有看到這篇文章的URL「GFW台灣版」，&lt;br&gt;
+就知道我對這政策有多反對了。&lt;/p&gt;
+&lt;h2 id=&#34;出什麼事了&#34;&gt;出什麼事了？&lt;/h2&gt;
+&lt;p&gt;今年三月，來自畏服部的《兒童及少年福利與權益保障法》草案出爐。&lt;br&gt;
+好消息：它呼應了《兒童權利公約》，增訂「禁止歧視」與「尊重兒童意見」原則。&lt;br&gt;
+壞消息：&lt;em&gt;強制&lt;/em&gt;所有網路平台進行年齡驗證。&lt;/p&gt;
+&lt;p&gt;換句話來說，&lt;br&gt;
+未來上網都要實名制了。&lt;br&gt;
+這跟中國大陸的GFW有何不同？&lt;br&gt;
+一樣是限制人民的自由，只不過是溫水煮青蛙罷了。&lt;/p&gt;
+&lt;p&gt;最好笑的是，這個法案基本上是民進黨出的，&lt;br&gt;
+他們幹的事情，是自己最討厭的共產黨，早在1990s就幹過的呢。&lt;br&gt;
+屠龍少年終成惡龍是吧？&lt;/p&gt;
+&lt;h2 id=&#34;我該怎麼辦&#34;&gt;我該怎麼辦？&lt;/h2&gt;
+&lt;p&gt;很簡單：堅決反對！&lt;br&gt;
+讓政府看到人們不願屈服，&lt;br&gt;
+最好是到網路平台分享並號召反對運動。&lt;br&gt;
+反對這場，&lt;br&gt;
+可謂殺死未成年人網路環境的drama。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>沒見過這麼醜的Emojis!</title>
+      <link>http://localhost:1313/posts/galaxy-emoji/</link>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/galaxy-emoji/</guid>
+      <description>&lt;p&gt;用三星的都知道，三星造了自己的Emoji字體。&lt;br&gt;
+我最受不了三星的就是這點。&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;🐕💩&#34; loading=&#34;lazy&#34; src=&#34;https://i.meee.com.tw/wLv9iFc.jpg&#34;&gt;
+可能是因為我個人比較不喜歡這種畫風，&lt;br&gt;
+也就是這腫硬造立體感的黃色人頭，&lt;br&gt;
+看起來很有物理感？我覺得這是無力感。&lt;/p&gt;
+&lt;p&gt;當然，我也不喜歡Apple的Emojis，
+因為是同個畫風。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;對我來講ItHINGS本來就是韭菜專用，尤其是MACos。
+如果你看到的不是方塊，意味著你大概率是盤子：&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我最喜歡的是Noto系列字體，非常完美。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>我討厭會考</title>
+      <link>http://localhost:1313/posts/i-hate-capfjhss/</link>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/i-hate-capfjhss/</guid>
+      <description>&lt;p&gt;當初設計會考的人自己沒準備過嗎？&lt;br&gt;
+基本上只能靠考試進學校，我不理解為什麼捏&amp;hellip;&lt;/p&gt;
+&lt;p&gt;馬上就要八升九了，所以我也要面對會考了。&lt;br&gt;
+那麼這些「&lt;em&gt;會考會考&lt;/em&gt;」我也得想辦法吃進去嘛。&lt;br&gt;
+鬼知道我又要死多久才會有空回到這裡繼續發。&lt;/p&gt;
+&lt;p&gt;我為了準備這鬼東西還把自己手機上鎖，&lt;br&gt;
+不然我怕考不上要的學校，&lt;br&gt;
+我連FB、IG甚至Gmail都沒裝，純靠瀏覽器。&lt;/p&gt;
+&lt;p&gt;班導師貌似覺得我算有誠意，但其實我超不想啊！&lt;br&gt;
+要不是會考的機制腦攤到我會寫文章，誰想定讀書計畫啦！&lt;/p&gt;
+&lt;p&gt;像那些幾A幾B，那是&lt;em&gt;人&lt;/em&gt;看的嗎？&lt;br&gt;
+問題很多，考生爆炸很多，老師被告很多，&lt;br&gt;
+惡性循環是吧？&lt;/p&gt;
+&lt;p&gt;九年級生（以及八升九）三高&lt;br&gt;
+難度&lt;strong&gt;高&lt;/strong&gt;、書疊得&lt;strong&gt;高&lt;/strong&gt;、「你真的很糟&lt;strong&gt;糕&lt;/strong&gt;」。&lt;/p&gt;
+&lt;p&gt;&lt;del&gt;等等，像極了唐詩&lt;/del&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=BeVoXP2ecU8&#34;&gt;白水寒《天真的橡皮》&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>我寫了個自己的SSG...</title>
+      <link>http://localhost:1313/posts/made-my-ssg/</link>
+      <pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/made-my-ssg/</guid>
+      <description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
+&lt;h2 id=&#34;ssg是什麼能吃嗎&#34;&gt;SSG是什麼？能吃嗎&lt;/h2&gt;
+&lt;p&gt;&lt;del&gt;不能吃但很好吃。&lt;/del&gt;
+SSG，全名Static Site Generator，
+翻譯即為靜態網站生成器。
+靜態網站指的是幾乎不依賴JavaScript腳本，
+就能顯示內容的網站，比如我說過很喜歡的&lt;a href=&#34;ivonblog.com&#34;&gt;Ivon&lt;/a&gt;，
+他的部落格就是用SSG生成，讓不使用JS的使用者也能閱讀。&lt;/p&gt;
+&lt;h2 id=&#34;那為啥你說不知道為啥偏偏自己寫&#34;&gt;那為啥你說不知道為啥偏偏自己寫？&lt;/h2&gt;
+&lt;p&gt;因為SSG這玩意其實市面上一堆。
+我個人一方面希望部落格按自己的方式寫，
+另一方面我幾乎沒用過任何SSG。
+這裡讓AI舉了幾個例子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jekyll&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;li&gt;VitePress
+其實我也只有用Jekyll，
+用自己的腳本生成完再丟給GitHub生一次Pages才能看，
+窮啊，誰叫Pages那麼香，一毛不花就能架網站。
+但Jekyll不符合我要求啊，我有sitemap、rss什麼的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;寫了哪些檔案&#34;&gt;寫了哪些檔案？&lt;/h2&gt;
+&lt;p&gt;這些吧，應該算簡潔了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;headtail.py：建立頁首跟頁尾&lt;/li&gt;
+&lt;li&gt;htmlmaker.py：填空題，配合format建立各個網頁&lt;/li&gt;
+&lt;li&gt;markdown.py：讓AI寫的MD轉HTML，&lt;!-- raw HTML omitted --&gt;不用markdown模組是為了在不同裝置上使用&lt;/li&gt;
+&lt;li&gt;metadata.py：就是網站一大堆Metadatas的生成器&lt;/li&gt;
+&lt;li&gt;timeline.py：建置我的動態牆&lt;/li&gt;
+&lt;li&gt;xmlbuild.py：建置sitemap跟rss&lt;/li&gt;
+&lt;li&gt;build.py：充其量就是拼積木
+沒啦awa
+是不是很簡潔呢（自肥）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;有哪些坑&#34;&gt;有哪些坑？&lt;/h2&gt;
+&lt;p&gt;超多啊&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI寫的MD生成器缺斤少兩，應該是指令沒下對&lt;/li&gt;
+&lt;li&gt;單雙引號不能亂用（ex. &lt;code&gt;f&amp;quot;在雙引號裡的format{i[&amp;quot;再套雙引號&amp;quot;]}&amp;quot;&lt;/code&gt; 會讓Actions爆炸）&lt;/li&gt;
+&lt;li&gt;htmlmaker要記得怎麼拼接&lt;/li&gt;
+&lt;li&gt;要能看懂哪裡出錯
+這專案重建到現在三天四十個commits，
+其實也挺離譜的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;順帶一題這文章是湊數的，我想拿去給Ivon放友站嘿嘿&lt;/del&gt;&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
