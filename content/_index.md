@@ -1,3 +1,6 @@
+---
+title: "Niugnep 的部落格"
+---
 <div align="center">
 
 # Niugnep 的部落格

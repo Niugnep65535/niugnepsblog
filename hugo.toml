@@ -39,4 +39,10 @@ theme = "PaperMod"
 
 [permalinks]
   posts = "/posts/:contentbasename.html"
-  page = "/:contentbasename.html"
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+  page = ["HTML"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML", "RSS"]
+  term = ["HTML", "RSS"]
