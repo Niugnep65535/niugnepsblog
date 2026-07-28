@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>自由軟體 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link><description>Recent content in 自由軟體 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml"/><item><title>技術宅．續</title><link>https://niugnep.idv.tw/posts/tech-otaku-part-2.html/</link><pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/tech-otaku-part-2.html/</guid><description>&lt;p&gt;書接&lt;a href="https://niugnep.idv.tw/posts/fake-or-real-tech-otaku"&gt;上回&lt;/a&gt;，我提到了我之後的手機會刷掉，但這件事比我想像中來得早。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>自由軟體 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/</link><description>Recent content in 自由軟體 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Wed, 22 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E8%87%AA%E7%94%B1%E8%BB%9F%E9%AB%94/index.xml" rel="self" type="application/rss+xml"/><item><title>技術宅．續</title><link>https://niugnep.idv.tw/posts/tech-otaku-part-2.html/</link><pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/tech-otaku-part-2.html/</guid><description>&lt;p&gt;書接&lt;a href="https://niugnep.idv.tw/posts/fake-or-real-tech-otaku"&gt;上回&lt;/a&gt;，我提到了我之後的手機會刷掉，但這件事比我想像中來得早。&lt;/p&gt;
 &lt;p&gt;是的各位，我的手機也澈底Degoogle了&amp;hellip;吧。&lt;br&gt;
 總之事情是這樣的，&lt;a href="https://niugnep.idv.tw/posts/phone-broken"&gt;我手機爆裂之後&lt;/a&gt;，我爸居然把他的Pixel 7 Pro給了我——前提是我要把那台壞掉的手機給他，他要用。&lt;br&gt;
 這下可好，我提前拿到了刷機之王啊！&lt;/p&gt;
@@ -9,7 +9,7 @@ GrapheneOS我幾乎用不到它的功能；LineageOS我雖然有興趣但玩過�
 此外把我推出GrapheneOS的還有小白（&lt;a href="https://itsxiaobai.github.io/"&gt;這裡&lt;/a&gt;）。他之前在寄信給我一堆留言時提到，GrapheneOS+Pixel耗電跟發燙都很扯。其實我覺得合理，畢竟每次解鎖螢幕畫面都要動到加密硬碟確實麻煩，而且我也沒有那種很扯的資安要求。&lt;/p&gt;
 &lt;h2 id="使用體驗"&gt;使用體驗&lt;/h2&gt;
 &lt;p&gt;先上截圖：&lt;br&gt;
-&lt;img alt="鎖定畫面" loading="lazy" src="https://i.meee.com.tw/hGbSrEM.webp"&gt;&lt;img alt="主畫面" loading="lazy" src="https://i.meee.com.tw/Q1dNTjy.webp"&gt;&lt;br&gt;
+&lt;img src="https://i.meee.com.tw/hGbSrEM.webp" alt="鎖定畫面"&gt;&lt;img src="https://i.meee.com.tw/Q1dNTjy.webp" alt="主畫面"&gt;&lt;br&gt;
 只能說：真的好用。&lt;br&gt;
 身為一個能把KDE改成MATE界面的屁孩（當然比不上那些改成tiling wm樣式的），crDroid那個設定畫面簡直把我感動哭了。&lt;br&gt;
 最重要的是沒有Google，我終於不用自稱half-degoogle了！太棒啦！&lt;/p&gt;
@@ -81,7 +81,7 @@ Arch Linux是一個從最小基本系統開始安裝的Linux發行版，你需�
 &lt;p&gt;uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 位使用者（來自Firefox Add-ons網站，截至2026/7/11）。&lt;br&gt;
 而它在我的網站裡查出了幾個廣告呢？答案是：&lt;br&gt;
 &lt;strong&gt;0個。&lt;/strong&gt;&lt;br&gt;
-&lt;img alt="沒廣告喔！awa" loading="lazy" src="https://i.meee.com.tw/GQK1GIa.png"&gt;&lt;br&gt;
+&lt;img src="https://i.meee.com.tw/GQK1GIa.png" alt="沒廣告喔！awa"&gt;&lt;br&gt;
 以此可證明，我沒在網站裡塞任何廣告或者追蹤器。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;其實開啟文章後由於Giscus，網站連接數量會從一個變成三個。&lt;/p&gt;
