@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>隨便亂寫 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E9%9A%A8%E4%BE%BF%E4%BA%82%E5%AF%AB/</link><description>Recent content in 隨便亂寫 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Sun, 10 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E9%9A%A8%E4%BE%BF%E4%BA%82%E5%AF%AB/index.xml" rel="self" type="application/rss+xml"/><item><title>現在的網站真的有點肥啊，JS濫用之術</title><link>https://niugnep.idv.tw/posts/better-website.html/</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/better-website.html/</guid><description>&lt;p&gt;實不相瞞，我也是&lt;a href="https://ivonblog.com/"&gt;Ivon的部落格&lt;/a&gt;的讀者。&lt;br&gt;
+我很常看他的文章，寫的也不錯，最近就看他抱怨現在的網站太複雜&lt;br&gt;
+沒看過的出門右轉：&lt;a href="https://ivonblog.com/posts/in-search-of-the-simple-web-design/"&gt;當今網頁設計框架太肥大了，架站難道不能只用HTML + CSS就搞定？&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Ivon 使用了CC BY-NC-ND，此處僅為引用與redirect&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我也有差不多的感覺。&lt;br&gt;
+Just like &lt;a href="https://how-i-experience-web-today.com/"&gt;this&lt;/a&gt;，廣告一堆沒有有用的訊息。&lt;br&gt;
+最好笑的是為什麼會在YouTube下載器的網站裡面放那種「你好，我在找一個人做[__]」的廣告&amp;hellip;&lt;/p&gt;
+&lt;p&gt;當然我可沒資格讓大家都不用JavaScript，我自己的&lt;a href="#"&gt;這個站&lt;/a&gt;就使用JS用到很頻繁。&lt;br&gt;
+不過我只用了三個自建JS文件，一個外部JS文件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scripts/content.js (顯示文章內容)&lt;/li&gt;
+&lt;li&gt;scripts/headtail.js (顯示頁首頁尾)&lt;/li&gt;
+&lt;li&gt;scripts/home.js (顯示主畫面)&lt;/li&gt;
+&lt;li&gt;marked.min.js (Markdown轉HTML)&lt;br&gt;
+沒了awa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;順帶一題，聽說Richard Stallman這位大哥他還在用curl靜態載入網站&amp;hellip;&lt;br&gt;
+不知道我的讀者當中有沒有這種數位修仙者，&lt;br&gt;
+有的話希望能寄個Email給我（自我介紹裡面有）&lt;br&gt;
+那如果我的部落格真的出現這種數位修仙大師…&lt;br&gt;
+他應該是直接fetch的posts-md/*.md吧哈哈&lt;/p&gt;</description></item></channel></rss>
