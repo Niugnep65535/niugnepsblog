@@ -1,14 +1,5 @@
 steps:
   build:
-    image: klakegg/hugo:ext-alpine
+    image: hugomods/hugo:exts
     commands:
       - hugo --gc --minify
-
-  deploy:
-    image: alpine/git
-    commands:
-      - git config --global user.name "Woodpecker CI"
-      - git config --global user.email "ci@example.com"
-      - git add public
-      - git commit -m "Deploy"
-      - git push origin HEAD:pages
