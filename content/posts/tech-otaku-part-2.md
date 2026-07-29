@@ -9,10 +9,10 @@ tags:
 - crDroid
 draft: false
 ---
-書接[上回](/posts/fake-or-real-tech-otaku)，我提到了我之後的手機會刷掉，但這件事比我想像中來得早。
+書接[上回](/posts/fake-or-real-tech-otaku.html)，我提到了我之後的手機會刷掉，但這件事比我想像中來得早。
 
 是的各位，我的手機也澈底Degoogle了...吧。  
-總之事情是這樣的，[我手機爆裂之後](/posts/phone-broken)，我爸居然把他的Pixel 7 Pro給了我——前提是我要把那台壞掉的手機給他，他要用。  
+總之事情是這樣的，[我手機爆裂之後](/posts/phone-broken.html)，我爸居然把他的Pixel 7 Pro給了我——前提是我要把那台壞掉的手機給他，他要用。  
 這下可好，我提前拿到了刷機之王啊！
 
 ## 配置
@@ -29,5 +29,5 @@ GrapheneOS我幾乎用不到它的功能；LineageOS我雖然有興趣但玩過�
 最重要的是沒有Google，我終於不用自稱half-degoogle了！太棒啦！  
 
 咳咳。這只是第一天，還沒什麼好講的。以後再寫
-[下集預告（404的話就是還沒寫）](tech-otaku-part-3)
+[下集預告（404的話就是還沒寫）](/posts/tech-otaku-part-3.html)
 
