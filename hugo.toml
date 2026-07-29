@@ -2,6 +2,8 @@ baseURL = 'https://niugnep.idv.tw/'
 locale = 'zh-Hant'
 title = 'Niugnep 的部落格'
 theme = "PaperMod"
+uglyURLs = true
+
 [params]
   ShowSearch = true
   favicon = "/favicon.png"
