@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>幹話 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E5%B9%B9%E8%A9%B1.html</link><description>Recent content in 幹話 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E5%B9%B9%E8%A9%B1/index.xml" rel="self" type="application/rss+xml"/><item><title>真假技術宅</title><link>https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html.html</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html.html</guid><description>&lt;p&gt;我之前看到Wiwi官大為寫的&lt;a href="https://wiwi.blog/blog/fake-vs-real-tech-nerd/"&gt;《假宅男 vs 真宅男》&lt;/a&gt;，其實挺有意思的，所以我就拿它來水一篇文章。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>幹話 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E5%B9%B9%E8%A9%B1.html</link><description>Recent content in 幹話 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Mon, 13 Jul 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E5%B9%B9%E8%A9%B1/index.xml" rel="self" type="application/rss+xml"/><item><title>真假技術宅</title><link>https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html</link><pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html</guid><description>&lt;p&gt;我之前看到Wiwi官大為寫的&lt;a href="https://wiwi.blog/blog/fake-vs-real-tech-nerd/"&gt;《假宅男 vs 真宅男》&lt;/a&gt;，其實挺有意思的，所以我就拿它來水一篇文章。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;我覺得他的定義不對，應該是真/假技術宅。因為宅男也分很多種，除了宅技術的，也有宅太空宅軍事宅汽車的嘛。&lt;br&gt;
 所以我下面會用「假技術宅」以及「真技術宅」當分類。&lt;/p&gt;
@@ -27,7 +27,7 @@
 &lt;li&gt;我在觀望Google等公司，並將大多數新資料丟到Codeberg或Proton Drive。&lt;/li&gt;
 &lt;li&gt;我在努力向我媽推廣自由軟體，比如Krita。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。&lt;/p&gt;</description></item><item><title>I use Arch, btw.</title><link>https://niugnep.idv.tw/posts/i-use-arch-btw.html.html</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/i-use-arch-btw.html.html</guid><description>&lt;p&gt;不知不覺間，我也用了兩個月半的Arch Linux了。&lt;br&gt;
+&lt;p&gt;到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。&lt;/p&gt;</description></item><item><title>I use Arch, btw.</title><link>https://niugnep.idv.tw/posts/i-use-arch-btw.html</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/i-use-arch-btw.html</guid><description>&lt;p&gt;不知不覺間，我也用了兩個月半的Arch Linux了。&lt;br&gt;
 那剛好，我段考終於是考完了，就來寫一下使用心得吧。&lt;/p&gt;
 &lt;h2 id="什麼是arch-linux"&gt;什麼是Arch Linux？&lt;/h2&gt;
 &lt;p&gt;&lt;del&gt;世界上最棒的Linux發行版。&lt;/del&gt;&lt;br&gt;
@@ -59,7 +59,7 @@ Arch Linux是一個從最小基本系統開始安裝的Linux發行版，你需�
 不是我說啊，班上連作業系統都不知道的大概有一半以上，導致我只要在班上基本上沒同伴，不是自言自語就是找別的話題。&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;「I wish everybody was as nice as I am.」&lt;/em&gt; &amp;ndash; Linus Torvalds&lt;br&gt;
-&lt;a href="https://youtu.be/Q4SWxWIOVBM?si=7TbdoAlGi4jmjLHl&amp;amp;t=76"&gt;這裡來的&lt;/a&gt;&lt;/p&gt;</description></item><item><title>為什麼 Codeberg 比 GitHub 更適合放部落格？</title><link>https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html.html</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html.html</guid><description>&lt;p&gt;就在今天，我正式把自己的部落格遷移到了Codeberg。&lt;/p&gt;
+&lt;a href="https://youtu.be/Q4SWxWIOVBM?si=7TbdoAlGi4jmjLHl&amp;amp;t=76"&gt;這裡來的&lt;/a&gt;&lt;/p&gt;</description></item><item><title>為什麼 Codeberg 比 GitHub 更適合放部落格？</title><link>https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html</guid><description>&lt;p&gt;就在今天，我正式把自己的部落格遷移到了Codeberg。&lt;/p&gt;
 &lt;h2 id="為什麼"&gt;為什麼？&lt;/h2&gt;
 &lt;p&gt;其實原因很簡單：開放。&lt;br&gt;
 GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。&lt;br&gt;
@@ -73,7 +73,7 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 &lt;p&gt;GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。&lt;br&gt;
 這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。&lt;br&gt;
 此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。&lt;/p&gt;
-&lt;p&gt;看到這裡了，真的不考慮改用Codeberg嗎？&lt;/p&gt;</description></item><item><title>完了，政府開始做更爛的事情了</title><link>https://niugnep.idv.tw/posts/gfw-taiwanese-edition.html.html</link><pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/gfw-taiwanese-edition.html.html</guid><description>&lt;blockquote&gt;
+&lt;p&gt;看到這裡了，真的不考慮改用Codeberg嗎？&lt;/p&gt;</description></item><item><title>完了，政府開始做更爛的事情了</title><link>https://niugnep.idv.tw/posts/gfw-taiwanese-edition.html</link><pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/gfw-taiwanese-edition.html</guid><description>&lt;blockquote&gt;
 &lt;p&gt;注意！&lt;br&gt;
 本篇文章有過激與政治內容，&lt;br&gt;
 請斟酌觀看。&lt;/p&gt;
@@ -97,7 +97,7 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 讓政府看到人們不願屈服，&lt;br&gt;
 最好是到網路平台分享並號召反對運動。&lt;br&gt;
 反對這場，&lt;br&gt;
-可謂殺死未成年人網路環境的drama。&lt;/p&gt;</description></item><item><title>沒見過這麼醜的Emojis!</title><link>https://niugnep.idv.tw/posts/galaxy-emoji.html.html</link><pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/galaxy-emoji.html.html</guid><description>&lt;p&gt;用三星的都知道，三星造了自己的Emoji字體。&lt;br&gt;
+可謂殺死未成年人網路環境的drama。&lt;/p&gt;</description></item><item><title>沒見過這麼醜的Emojis!</title><link>https://niugnep.idv.tw/posts/galaxy-emoji.html</link><pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/galaxy-emoji.html</guid><description>&lt;p&gt;用三星的都知道，三星造了自己的Emoji字體。&lt;br&gt;
 我最受不了三星的就是這點。&lt;/p&gt;
 &lt;p&gt;&lt;img alt="🐕💩" loading="lazy" src="https://i.meee.com.tw/wLv9iFc.jpg"&gt;
 可能是因為我個人比較不喜歡這種畫風，&lt;br&gt;
@@ -109,7 +109,7 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 &lt;p&gt;對我來講ItHINGS本來就是韭菜專用，尤其是MACos。
 如果你看到的不是方塊，意味著你大概率是盤子：&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;我最喜歡的是Noto系列字體，非常完美。&lt;/p&gt;</description></item><item><title>我討厭會考</title><link>https://niugnep.idv.tw/posts/i-hate-capfjhss.html.html</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/i-hate-capfjhss.html.html</guid><description>&lt;p&gt;當初設計會考的人自己沒準備過嗎？&lt;br&gt;
+&lt;p&gt;我最喜歡的是Noto系列字體，非常完美。&lt;/p&gt;</description></item><item><title>我討厭會考</title><link>https://niugnep.idv.tw/posts/i-hate-capfjhss.html</link><pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/i-hate-capfjhss.html</guid><description>&lt;p&gt;當初設計會考的人自己沒準備過嗎？&lt;br&gt;
 基本上只能靠考試進學校，我不理解為什麼捏&amp;hellip;&lt;/p&gt;
 &lt;p&gt;馬上就要八升九了，所以我也要面對會考了。&lt;br&gt;
 那麼這些「&lt;em&gt;會考會考&lt;/em&gt;」我也得想辦法吃進去嘛。&lt;br&gt;
@@ -127,7 +127,7 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 &lt;p&gt;&lt;del&gt;等等，像極了唐詩&lt;/del&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=BeVoXP2ecU8"&gt;白水寒《天真的橡皮》&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;</description></item><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html.html</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html.html</guid><description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
+&lt;/blockquote&gt;</description></item><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html</guid><description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
 &lt;h2 id="ssg是什麼能吃嗎"&gt;SSG是什麼？能吃嗎&lt;/h2&gt;
 &lt;p&gt;&lt;del&gt;不能吃但很好吃。&lt;/del&gt;
 SSG，全名Static Site Generator，

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>網路 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E7%B6%B2%E8%B7%AF.html</link><description>Recent content in 網路 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E7%B6%B2%E8%B7%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html.html</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html.html</guid><description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>網路 on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/%E7%B6%B2%E8%B7%AF.html</link><description>Recent content in 網路 on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Thu, 14 May 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/%E7%B6%B2%E8%B7%AF/index.xml" rel="self" type="application/rss+xml"/><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html</guid><description>&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
 &lt;h2 id="ssg是什麼能吃嗎"&gt;SSG是什麼？能吃嗎&lt;/h2&gt;
 &lt;p&gt;&lt;del&gt;不能吃但很好吃。&lt;/del&gt;
 SSG，全名Static Site Generator，
@@ -43,7 +43,7 @@ SSG，全名Static Site Generator，
 這專案重建到現在三天四十個commits，
 其實也挺離譜的。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;del&gt;順帶一題這文章是湊數的，我想拿去給Ivon放友站嘿嘿&lt;/del&gt;&lt;/p&gt;</description></item><item><title>現在的網站真的有點肥啊，JS濫用之術</title><link>https://niugnep.idv.tw/posts/better-website.html.html</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/better-website.html.html</guid><description>&lt;p&gt;實不相瞞，我也是&lt;a href="https://ivonblog.com/"&gt;Ivon的部落格&lt;/a&gt;的讀者。&lt;br&gt;
+&lt;p&gt;&lt;del&gt;順帶一題這文章是湊數的，我想拿去給Ivon放友站嘿嘿&lt;/del&gt;&lt;/p&gt;</description></item><item><title>現在的網站真的有點肥啊，JS濫用之術</title><link>https://niugnep.idv.tw/posts/better-website.html</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/better-website.html</guid><description>&lt;p&gt;實不相瞞，我也是&lt;a href="https://ivonblog.com/"&gt;Ivon的部落格&lt;/a&gt;的讀者。&lt;br&gt;
 我很常看他的文章，寫的也不錯，最近就看他抱怨現在的網站太複雜&lt;br&gt;
 沒看過的出門右轉：&lt;a href="https://ivonblog.com/posts/in-search-of-the-simple-web-design/"&gt;當今網頁設計框架太肥大了，架站難道不能只用HTML + CSS就搞定？&lt;/a&gt;&lt;/p&gt;
 &lt;blockquote&gt;

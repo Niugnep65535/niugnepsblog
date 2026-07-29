@@ -40,7 +40,7 @@ uglyURLs = true
   weight = 50
 
 [permalinks]
-  posts = "/posts/:contentbasename.html"
+  posts = "/posts/:contentbasename"
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
