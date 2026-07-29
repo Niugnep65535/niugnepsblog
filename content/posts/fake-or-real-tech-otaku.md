@@ -5,8 +5,6 @@ tags:
 - 技術宅
 - 自由軟體
 - 幹話
-- FOSS
-- NAS
 draft: false
 ---
 我之前看到Wiwi官大為寫的[《假宅男 vs 真宅男》](https://wiwi.blog/blog/fake-vs-real-tech-nerd/)，其實挺有意思的，所以我就拿它來水一篇文章。  

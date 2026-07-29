@@ -13,37 +13,7 @@
 手機方面，我在不讓爸媽暴走（刷機，razr 40 ultra還只有非官方支援）的前提下，盡量不使用Google的工具，比如改用Proton Mail、DuckDuckGo等。
 其次，我也在想辦法自架一些服務，以後我也會買別台電腦（乃至直接拆我媽的電腦）當NAS。
 最重要的，我在電腦方面幾乎完全改用Linux，只剩下有必要時使用Windows To Go（我真的沒辦法）。
-展望 我現在正在存錢，打算買X220或X280。 十一月的續約機我會買刷機之王Pixel，配合LineageOS或者GrapheneOS。 我正準備買二手電腦，當成NAS。 我在觀望Google等公司，並將大多數新資料丟到Codeberg或Proton Drive。 我在努力向我媽推廣自由軟體，比如Krita。 到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。</p></div><footer class=entry-footer><span title='2026-07-13 00:00:00 +0000 UTC'>2026年7月13日</span></footer><a class=entry-link aria-label="post link to 真假技術宅" href=https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>I use Arch, btw.</h2></header><div class=entry-content><p>不知不覺間，我也用了兩個月半的Arch Linux了。
-那剛好，我段考終於是考完了，就來寫一下使用心得吧。
-什麼是Arch Linux？ 世界上最棒的Linux發行版。
-我不會這麼說，哪個發行版好用因人而異。比如Linus Torvalds用的是Fedora，或者Wiwi官大為用的是Linux Mint等等。
-Arch Linux是一個從最小基本系統開始安裝的Linux發行版，你需要自行增加你需要的工具，從指令行（TTY界面）開始，疊加視窗管理器、桌面環境等工具。
-在維基百科，Arch被形容成適合「不懼怕命令列的中進階Linux使用者」，還挺貼切。
-配置 我在我的GIGABYTE G5 GE上安裝Arch。
-CPU: 12th Gen Intel(R) Core(TM) i5-12500H RAM: DDR4 3200MHz 16GiB(8+8) 硬碟: NVMe PCIe 4.0 512GB SSD GPU: NVIDIA GeForce RTX 3050 Mobile 螢幕： 1920x1080 144Hz 安裝體驗 我也重灌過好幾次了。我最近重灌這一次改用了CachyOS核心，但系統仍然是原生Arch。
-安裝教學我就不放了，請在Arch Wiki取得具體的教學 :P
-其實對我來講算簡單的，因為Arch Wiki寫的非常詳細，你可以根據自己的要求來修改。
-我使用過非常多桌面環境和視窗管理器，包含KDE Plasma、Sway、Hyprland、i3-wm、GNOME（幾乎沒怎麼用）、Cinnamon、Xfce…。
-搞了半天我最後選擇了KDE Plasma作為主力，保留Sway作為需要專注時使用。
-使用體驗 無論如何，我以後應該就真的以Arch為主力，不會在主電腦上長期使用其他發行版了。
-首先，Arch Linux在安裝完成之後真的很有成就感，這個懂的都懂好不好。
-此外，Arch的原版倉庫只有開源的方案，連NVIDIA也改為使用nvidia-open系列驅動程式，這讓我用的非常舒服。
-而且我現在的工作流，不是不需要Wine，就是Wine不能跑，除了Proton（這個算嗎lol），這讓我不需要做太多思考，Pacman裡面幾乎都有我要的軟體；要是真的沒有，我還可以去AUR裡面翻。
-另一個讓我難過的點 我們班上都是文盲。 不是我說啊，班上連作業系統都不知道的大概有一半以上，導致我只要在班上基本上沒同伴，不是自言自語就是找別的話題。
-「I wish everybody was as nice as I am.」 – Linus Torvalds
-這裡來的
-...</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to I use Arch, btw." href=https://niugnep.idv.tw/posts/i-use-arch-btw.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>為什麼 Codeberg 比 GitHub 更適合放部落格？</h2></header><div class=entry-content><p>就在今天，我正式把自己的部落格遷移到了Codeberg。
-為什麼？ 其實原因很簡單：開放。
-GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。
-此外Codeberg基於自由開源的Forgejo構建，有很強的自由度，並且是真．完全免費。
-連台灣Linux使用者常用的新酷音專案都轉到了Codeberg呢！
-怎麼弄？ 與GitHub要在設定裡搞半天不同，Codeberg的Pages極為單純。
-只要把做好的HTML、CSS跟JavaScript全丟到pages分支，就好了，連設定都不用。
-做好的東西會生成在&lt;你的倉庫名稱>.&lt;你的使用者名稱>.codeberg.page；如果倉庫名叫pages，就是&lt;你的使用者名稱>.codeberg.page。
-額外的好處 GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。
-這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。
-此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。
-看到這裡了，真的不考慮改用Codeberg嗎？</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to 為什麼 Codeberg 比 GitHub 更適合放部落格？" href=https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>完了，政府開始做更爛的事情了</h2></header><div class=entry-content><p>注意！
+展望 我現在正在存錢，打算買X220或X280。 十一月的續約機我會買刷機之王Pixel，配合LineageOS或者GrapheneOS。 我正準備買二手電腦，當成NAS。 我在觀望Google等公司，並將大多數新資料丟到Codeberg或Proton Drive。 我在努力向我媽推廣自由軟體，比如Krita。 到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。</p></div><footer class=entry-footer><span title='2026-07-13 00:00:00 +0000 UTC'>2026年7月13日</span></footer><a class=entry-link aria-label="post link to 真假技術宅" href=https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>完了，政府開始做更爛的事情了</h2></header><div class=entry-content><p>注意！
 本篇文章有過激與政治內容，
 請斟酌觀看。
 各位，你們知道什麼是腦攤政府嗎？
@@ -86,7 +56,8 @@ GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯�
 九年級生（以及八升九）三高
 難度高、書疊得高、「你真的很糟糕」。
 等等，像極了唐詩
-白水寒《天真的橡皮》</p></div><footer class=entry-footer><span title='2026-06-14 00:00:00 +0000 UTC'>2026年6月14日</span></footer><a class=entry-link aria-label="post link to 我討厭會考" href=https://niugnep.idv.tw/posts/i-hate-capfjhss.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>我寫了個自己的SSG...</h2></header><div class=entry-content><p>講真話我不知道為啥，我偏偏要寫一個自己的SSG。
+白水寒《天真的橡皮》</p></div><footer class=entry-footer><span title='2026-06-14 00:00:00 +0000 UTC'>2026年6月14日</span></footer><a class=entry-link aria-label="post link to 我討厭會考" href=https://niugnep.idv.tw/posts/i-hate-capfjhss.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>我寫了個自己的SSG...</h2></header><div class=entry-content><p>ℹ️ 提示 本文的內容可能已經過時。
+講真話我不知道為啥，我偏偏要寫一個自己的SSG。
 SSG是什麼？能吃嗎 不能吃但很好吃。 SSG，全名Static Site Generator， 翻譯即為靜態網站生成器。 靜態網站指的是幾乎不依賴JavaScript腳本， 就能顯示內容的網站，比如我說過很喜歡的Ivon， 他的部落格就是用SSG生成，讓不使用JS的使用者也能閱讀。
 那為啥你說不知道為啥偏偏自己寫？ 因為SSG這玩意其實市面上一堆。 我個人一方面希望部落格按自己的方式寫， 另一方面我幾乎沒用過任何SSG。 這裡讓AI舉了幾個例子：
 Jekyll Hugo VitePress 其實我也只有用Jekyll， 用自己的腳本生成完再丟給GitHub生一次Pages才能看， 窮啊，誰叫Pages那麼香，一毛不花就能架網站。 但Jekyll不符合我要求啊，我有sitemap、rss什麼的。 寫了哪些檔案？ 這些吧，應該算簡潔了。

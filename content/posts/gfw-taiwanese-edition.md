@@ -2,8 +2,7 @@
 title: 完了，政府開始做更爛的事情了
 date: 2026-06-28
 tags:
-- 抒發
-- 網際網路自由
+- Open Web
 - 幹話
 - 政治
 draft: false

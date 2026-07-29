@@ -2,12 +2,9 @@
 title: 我的網站很乾淨
 date: 2026-06-29
 tags:
-- 廣告
-- 自由軟體
-- 網頁
-- Codeberg
-- Firefox
-- uBlock
+- 網際網路
+- Open Web
+- 部落格
 draft: false
 ---
 是的，*我說*我的網站很乾淨。  

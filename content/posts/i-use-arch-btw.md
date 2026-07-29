@@ -3,10 +3,8 @@ title: I use Arch, btw.
 date: 2026-06-29
 tags:
 - 心得
-- 自由軟體
-- 幹話
-- Linux
-- Arch
+- GNU/Linux
+- Arch Linux
 draft: false
 ---
 不知不覺間，我也用了兩個月半的Arch Linux了。  

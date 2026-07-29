@@ -2,11 +2,9 @@
 title: 沒見過這麼醜的Emojis!
 date: 2026-06-25
 tags:
-- 抒發
+- 手機
 - 三星
 - 幹話
-- Apple
-- Emoji
 draft: false
 ---
 用三星的都知道，三星造了自己的Emoji字體。  

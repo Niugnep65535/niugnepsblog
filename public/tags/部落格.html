@@ -3,7 +3,34 @@
 <svg class="sun" width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/></svg></button></div></div><ul id=menu class=menu><li><a href=https://niugnep.idv.tw/posts title=文章><span>文章</span></a></li><li><a href=https://niugnep.idv.tw/tags title=標籤><span>標籤</span></a></li><li><a href=https://niugnep.idv.tw/recommend.html title=我推><span>我推</span></a></li><li><a href=https://niugnep.idv.tw/about.html title=關於我><span>關於我</span></a></li><li><a href=https://niugnep.idv.tw/now.html title=現況><span>現況</span></a></li><li><a href=https://niugnep.idv.tw/inventory.html title=裝備><span>裝備</span></a></li></ul></nav></header><main class=main><header class=page-header><h1>部落格</h1></header><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>我，還是換到Hugo了</h2></header><div class=entry-content><p>因為我發現我改這倉庫十次有九次在修bug，為了讓我能更專心在寫作上，我決定不再使用我自製的SSG。
 會有什麼影響 對我而言：
 寫起來更順 檔案不會亂落 可能需要時間適應 對讀者： 更好的排版（我審美是真不好） 可能要重新訂閱RSS 大概這樣吧。
-這篇文章算是一個紀錄，請多指教啦！</p></div><footer class=entry-footer><span title='2026-07-28 00:00:00 +0000 UTC'>2026年7月28日</span></footer><a class=entry-link aria-label="post link to 我，還是換到Hugo了" href=https://niugnep.idv.tw/posts/switch-to-hugo.html></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://niugnep.idv.tw/>Niugnep 的部落格</a></span> ·
+這篇文章算是一個紀錄，請多指教啦！</p></div><footer class=entry-footer><span title='2026-07-28 00:00:00 +0000 UTC'>2026年7月28日</span></footer><a class=entry-link aria-label="post link to 我，還是換到Hugo了" href=https://niugnep.idv.tw/posts/switch-to-hugo.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>我的網站很乾淨</h2></header><div class=entry-content><p>是的，我說我的網站很乾淨。
+那麼要怎麼證明呢？
+uBlock Origin uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 位使用者（來自Firefox Add-ons網站，截至2026/7/11）。
+而它在我的網站裡查出了幾個廣告呢？答案是：
+0個。
+以此可證明，我沒在網站裡塞任何廣告或者追蹤器。
+其實開啟文章後由於Giscus，網站連接數量會從一個變成三個。
+Firefox Console 那麼眾所周知，Firefox的控制台真的非常的嚴苛。
+沒塞&lt;!DOCTYPE html>也要講一下。
+而我得到了多少個警告？
+沒有，只有開啟文章後Giscus帶來的三個警告。
+不信的話你大可去驗證
+JavaScript JavaScript可謂現代網站與木馬的命脈。
+沒有了它，Google、Bing、Yahoo等網站都不能正常使用。
+那我呢？
+實測關閉JavaScript之後，所有功能（除了Giscus留言板）都可以正常使用。
+所以，能相信我了吧？</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to 我的網站很乾淨" href=https://niugnep.idv.tw/posts/clean-website.html></a></article><article class="post-entry tag-entry"><header class=entry-header><h2 class=entry-hint-parent>為什麼 Codeberg 比 GitHub 更適合放部落格？</h2></header><div class=entry-content><p>就在今天，我正式把自己的部落格遷移到了Codeberg。
+為什麼？ 其實原因很簡單：開放。
+GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。
+此外Codeberg基於自由開源的Forgejo構建，有很強的自由度，並且是真．完全免費。
+連台灣Linux使用者常用的新酷音專案都轉到了Codeberg呢！
+怎麼弄？ 與GitHub要在設定裡搞半天不同，Codeberg的Pages極為單純。
+只要把做好的HTML、CSS跟JavaScript全丟到pages分支，就好了，連設定都不用。
+做好的東西會生成在&lt;你的倉庫名稱>.&lt;你的使用者名稱>.codeberg.page；如果倉庫名叫pages，就是&lt;你的使用者名稱>.codeberg.page。
+額外的好處 GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。
+這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。
+此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。
+看到這裡了，真的不考慮改用Codeberg嗎？</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to 為什麼 Codeberg 比 GitHub 更適合放部落格？" href=https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html></a></article></main><footer class=footer><span>&copy; 2026 <a href=https://niugnep.idv.tw/>Niugnep 的部落格</a></span> ·
 <span>Powered by
 <a href="https://gohugo.io/?utm_source=papermod" rel=noopener target=_blank>Hugo</a> &
 <a href=https://github.com/adityatelange/hugo-PaperMod/ rel=noopener target=_blank>PaperMod</a></span></footer><a href=#top id=top-link class="top-link hidden" aria-label="go to top" title="Go to Top (Alt + G)" accesskey=g><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevrons-up"><polyline points="17 11 12 6 7 11"/><polyline points="17 18 12 13 7 18"/></svg>

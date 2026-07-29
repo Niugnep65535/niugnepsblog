@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Open Web on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/open-web.html</link><description>Recent content in Open Web on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Mon, 29 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/open-web/index.xml" rel="self" type="application/rss+xml"/><item><title>我的網站很乾淨</title><link>https://niugnep.idv.tw/posts/clean-website.html</link><pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/clean-website.html</guid><description>&lt;p&gt;是的，&lt;em&gt;我說&lt;/em&gt;我的網站很乾淨。&lt;br&gt;
+那麼要怎麼證明呢？&lt;/p&gt;
+&lt;h2 id="ublock-origin"&gt;uBlock Origin&lt;/h2&gt;
+&lt;p&gt;uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 位使用者（來自Firefox Add-ons網站，截至2026/7/11）。&lt;br&gt;
+而它在我的網站裡查出了幾個廣告呢？答案是：&lt;br&gt;
+&lt;strong&gt;0個。&lt;/strong&gt;&lt;br&gt;
+&lt;img alt="沒廣告喔！awa" loading="lazy" src="https://i.meee.com.tw/GQK1GIa.png"&gt;&lt;br&gt;
+以此可證明，我沒在網站裡塞任何廣告或者追蹤器。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;其實開啟文章後由於Giscus，網站連接數量會從一個變成三個。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id="firefox-console"&gt;Firefox Console&lt;/h2&gt;
+&lt;p&gt;那麼眾所周知，Firefox的控制台真的非常的嚴苛。&lt;br&gt;
+沒塞&lt;code&gt;&amp;lt;!DOCTYPE html&amp;gt;&lt;/code&gt;也要講一下。&lt;br&gt;
+而我得到了多少個警告？&lt;br&gt;
+&lt;strong&gt;沒有&lt;/strong&gt;，只有開啟文章後Giscus帶來的三個警告。&lt;br&gt;
+不信的話你大可去驗證&lt;/p&gt;
+&lt;h2 id="javascript"&gt;JavaScript&lt;/h2&gt;
+&lt;p&gt;JavaScript可謂現代網站與木馬的命脈。&lt;br&gt;
+沒有了它，Google、Bing、Yahoo等網站都不能正常使用。&lt;br&gt;
+那我呢？&lt;br&gt;
+實測關閉JavaScript之後，所有功能（除了Giscus留言板）都可以正常使用。&lt;/p&gt;
+&lt;p&gt;所以，能相信我了吧？&lt;/p&gt;</description></item><item><title>完了，政府開始做更爛的事情了</title><link>https://niugnep.idv.tw/posts/gfw-taiwanese-edition.html</link><pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/gfw-taiwanese-edition.html</guid><description>&lt;blockquote&gt;
+&lt;p&gt;注意！&lt;br&gt;
+本篇文章有過激與政治內容，&lt;br&gt;
+請斟酌觀看。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;各位，你們知道什麼是腦攤政府嗎？&lt;br&gt;
+如果你有看到這篇文章的URL「GFW台灣版」，&lt;br&gt;
+就知道我對這政策有多反對了。&lt;/p&gt;
+&lt;h2 id="出什麼事了"&gt;出什麼事了？&lt;/h2&gt;
+&lt;p&gt;今年三月，來自畏服部的《兒童及少年福利與權益保障法》草案出爐。&lt;br&gt;
+好消息：它呼應了《兒童權利公約》，增訂「禁止歧視」與「尊重兒童意見」原則。&lt;br&gt;
+壞消息：&lt;em&gt;強制&lt;/em&gt;所有網路平台進行年齡驗證。&lt;/p&gt;
+&lt;p&gt;換句話來說，&lt;br&gt;
+未來上網都要實名制了。&lt;br&gt;
+這跟中國大陸的GFW有何不同？&lt;br&gt;
+一樣是限制人民的自由，只不過是溫水煮青蛙罷了。&lt;/p&gt;
+&lt;p&gt;最好笑的是，這個法案基本上是民進黨出的，&lt;br&gt;
+他們幹的事情，是自己最討厭的共產黨，早在1990s就幹過的呢。&lt;br&gt;
+屠龍少年終成惡龍是吧？&lt;/p&gt;
+&lt;h2 id="我該怎麼辦"&gt;我該怎麼辦？&lt;/h2&gt;
+&lt;p&gt;很簡單：堅決反對！&lt;br&gt;
+讓政府看到人們不願屈服，&lt;br&gt;
+最好是到網路平台分享並號召反對運動。&lt;br&gt;
+反對這場，&lt;br&gt;
+可謂殺死未成年人網路環境的drama。&lt;/p&gt;</description></item><item><title>我寫了個自己的SSG...</title><link>https://niugnep.idv.tw/posts/made-my-ssg.html</link><pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/made-my-ssg.html</guid><description>&lt;blockquote&gt;
+&lt;p&gt;ℹ️ 提示
+本文的內容可能已經過時。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;講真話我不知道為啥，我偏偏要寫一個自己的SSG。&lt;/p&gt;
+&lt;h2 id="ssg是什麼能吃嗎"&gt;SSG是什麼？能吃嗎&lt;/h2&gt;
+&lt;p&gt;&lt;del&gt;不能吃但很好吃。&lt;/del&gt;
+SSG，全名Static Site Generator，
+翻譯即為靜態網站生成器。
+靜態網站指的是幾乎不依賴JavaScript腳本，
+就能顯示內容的網站，比如我說過很喜歡的&lt;a href="ivonblog.com"&gt;Ivon&lt;/a&gt;，
+他的部落格就是用SSG生成，讓不使用JS的使用者也能閱讀。&lt;/p&gt;
+&lt;h2 id="那為啥你說不知道為啥偏偏自己寫"&gt;那為啥你說不知道為啥偏偏自己寫？&lt;/h2&gt;
+&lt;p&gt;因為SSG這玩意其實市面上一堆。
+我個人一方面希望部落格按自己的方式寫，
+另一方面我幾乎沒用過任何SSG。
+這裡讓AI舉了幾個例子：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jekyll&lt;/li&gt;
+&lt;li&gt;Hugo&lt;/li&gt;
+&lt;li&gt;VitePress
+其實我也只有用Jekyll，
+用自己的腳本生成完再丟給GitHub生一次Pages才能看，
+窮啊，誰叫Pages那麼香，一毛不花就能架網站。
+但Jekyll不符合我要求啊，我有sitemap、rss什麼的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="寫了哪些檔案"&gt;寫了哪些檔案？&lt;/h2&gt;
+&lt;p&gt;這些吧，應該算簡潔了。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;headtail.py：建立頁首跟頁尾&lt;/li&gt;
+&lt;li&gt;htmlmaker.py：填空題，配合format建立各個網頁&lt;/li&gt;
+&lt;li&gt;markdown.py：讓AI寫的MD轉HTML，&lt;!-- raw HTML omitted --&gt;不用markdown模組是為了在不同裝置上使用&lt;/li&gt;
+&lt;li&gt;metadata.py：就是網站一大堆Metadatas的生成器&lt;/li&gt;
+&lt;li&gt;timeline.py：建置我的動態牆&lt;/li&gt;
+&lt;li&gt;xmlbuild.py：建置sitemap跟rss&lt;/li&gt;
+&lt;li&gt;build.py：充其量就是拼積木
+沒啦awa
+是不是很簡潔呢（自肥）&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="有哪些坑"&gt;有哪些坑？&lt;/h2&gt;
+&lt;p&gt;超多啊&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;AI寫的MD生成器缺斤少兩，應該是指令沒下對&lt;/li&gt;
+&lt;li&gt;單雙引號不能亂用（ex. &lt;code&gt;f&amp;quot;在雙引號裡的format{i[&amp;quot;再套雙引號&amp;quot;]}&amp;quot;&lt;/code&gt; 會讓Actions爆炸）&lt;/li&gt;
+&lt;li&gt;htmlmaker要記得怎麼拼接&lt;/li&gt;
+&lt;li&gt;要能看懂哪裡出錯
+這專案重建到現在三天四十個commits，
+其實也挺離譜的。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;del&gt;順帶一題這文章是湊數的，我想拿去給Ivon放友站嘿嘿&lt;/del&gt;&lt;/p&gt;</description></item><item><title>現在的網站真的有點肥啊，JS濫用之術</title><link>https://niugnep.idv.tw/posts/better-website.html</link><pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/better-website.html</guid><description>&lt;p&gt;實不相瞞，我也是&lt;a href="https://ivonblog.com/"&gt;Ivon的部落格&lt;/a&gt;的讀者。&lt;br&gt;
+我很常看他的文章，寫的也不錯，最近就看他抱怨現在的網站太複雜&lt;br&gt;
+沒看過的出門右轉：&lt;a href="https://ivonblog.com/posts/in-search-of-the-simple-web-design/"&gt;當今網頁設計框架太肥大了，架站難道不能只用HTML + CSS就搞定？&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;Ivon 使用了CC BY-NC-ND，此處僅為引用與redirect&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;我也有差不多的感覺。&lt;br&gt;
+Just like &lt;a href="https://how-i-experience-web-today.com/"&gt;this&lt;/a&gt;，廣告一堆沒有有用的訊息。&lt;br&gt;
+最好笑的是為什麼會在YouTube下載器的網站裡面放那種「你好，我在找一個人做[__]」的廣告&amp;hellip;&lt;/p&gt;
+&lt;p&gt;當然我可沒資格讓大家都不用JavaScript，我自己的&lt;a href="#"&gt;這個站&lt;/a&gt;就使用JS用到很頻繁。&lt;br&gt;
+不過我只用了三個自建JS文件，一個外部JS文件：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;scripts/content.js (顯示文章內容)&lt;/li&gt;
+&lt;li&gt;scripts/headtail.js (顯示頁首頁尾)&lt;/li&gt;
+&lt;li&gt;scripts/home.js (顯示主畫面)&lt;/li&gt;
+&lt;li&gt;marked.min.js (Markdown轉HTML)&lt;br&gt;
+沒了awa&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;順帶一題，聽說Richard Stallman這位大哥他還在用curl靜態載入網站&amp;hellip;&lt;br&gt;
+不知道我的讀者當中有沒有這種數位修仙者，&lt;br&gt;
+有的話希望能寄個Email給我（自我介紹裡面有）&lt;br&gt;
+那如果我的部落格真的出現這種數位修仙大師…&lt;br&gt;
+他應該是直接fetch的posts-md/*.md吧哈哈&lt;/p&gt;</description></item></channel></rss>
