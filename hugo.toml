@@ -39,6 +39,11 @@ uglyURLs = true
   url = "/inventory.html"
   weight = 50
 
+[[menu.main]]
+  name = "搜尋"
+  url = "/search.html"
+  weight = 50
+
 [permalinks]
   posts = "/posts/:contentbasename"
 
