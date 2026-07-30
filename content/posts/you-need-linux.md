@@ -40,5 +40,5 @@ Linux只是個核心，但是作業系統本體有很多，它們叫做發行版
 企業很多都是用RHEL，它的組件管理工具（`dnf install <東西>`）跟Fedora相通，可以盡早練習。
 
 ## 延伸閱讀
-Wiwi - [你的電腦不是你的](https://wiwi.blog/blog/your-computer-is-not-yours)
+Wiwi - [你的電腦不是你的](https://wiwi.blog/blog/your-computer-is-not-yours)  
 Ivon - [【2026年】適合新手入門的GNU/Linux發行版 ](https://ivonblog.com/posts/linux-distros-for-beginners/)
