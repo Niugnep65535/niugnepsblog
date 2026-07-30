@@ -1,6 +1,6 @@
 ---
 title: 為什麼 Codeberg 比 GitHub 更適合放部落格？
-date: 2026-06-29
+date: 2026-07-09
 tags:
 - 網際網路
 - Codeberg

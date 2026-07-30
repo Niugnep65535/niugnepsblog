@@ -51,7 +51,34 @@ GrapheneOS我幾乎用不到它的功能；LineageOS我雖然有興趣但玩過�
 手機方面，我在不讓爸媽暴走（刷機，razr 40 ultra還只有非官方支援）的前提下，盡量不使用Google的工具，比如改用Proton Mail、DuckDuckGo等。
 其次，我也在想辦法自架一些服務，以後我也會買別台電腦（乃至直接拆我媽的電腦）當NAS。
 最重要的，我在電腦方面幾乎完全改用Linux，只剩下有必要時使用Windows To Go（我真的沒辦法）。
-展望 我現在正在存錢，打算買X220或X280。 十一月的續約機我會買刷機之王Pixel，配合LineageOS或者GrapheneOS。 我正準備買二手電腦，當成NAS。 我在觀望Google等公司，並將大多數新資料丟到Codeberg或Proton Drive。 我在努力向我媽推廣自由軟體，比如Krita。 到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。</p></div><footer class=entry-footer><span title='2026-07-13 00:00:00 +0000 UTC'>2026年7月13日</span></footer><a class=entry-link aria-label="post link to 真假技術宅" href=https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>I use Arch, btw.</h2></header><div class=entry-content><p>不知不覺間，我也用了兩個月半的Arch Linux了。
+展望 我現在正在存錢，打算買X220或X280。 十一月的續約機我會買刷機之王Pixel，配合LineageOS或者GrapheneOS。 我正準備買二手電腦，當成NAS。 我在觀望Google等公司，並將大多數新資料丟到Codeberg或Proton Drive。 我在努力向我媽推廣自由軟體，比如Krita。 到此為止，應該還是拿不到Wiwi的真．技術宅認證吧，畢竟我離財富自由距離過遠了。</p></div><footer class=entry-footer><span title='2026-07-13 00:00:00 +0000 UTC'>2026年7月13日</span></footer><a class=entry-link aria-label="post link to 真假技術宅" href=https://niugnep.idv.tw/posts/fake-or-real-tech-otaku.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>我的網站很乾淨</h2></header><div class=entry-content><p>是的，我說我的網站很乾淨。
+那麼要怎麼證明呢？
+uBlock Origin uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 位使用者（來自Firefox Add-ons網站，截至2026/7/11）。
+而它在我的網站裡查出了幾個廣告呢？答案是：
+0個。
+以此可證明，我沒在網站裡塞任何廣告或者追蹤器。
+其實開啟文章後由於Giscus，網站連接數量會從一個變成三個。
+Firefox Console 那麼眾所周知，Firefox的控制台真的非常的嚴苛。
+沒塞&lt;!DOCTYPE html>也要講一下。
+而我得到了多少個警告？
+沒有，只有開啟文章後Giscus帶來的三個警告。
+不信的話你大可去驗證
+JavaScript JavaScript可謂現代網站與木馬的命脈。
+沒有了它，Google、Bing、Yahoo等網站都不能正常使用。
+那我呢？
+實測關閉JavaScript之後，所有功能（除了Giscus留言板）都可以正常使用。
+所以，能相信我了吧？</p></div><footer class=entry-footer><span title='2026-07-11 00:00:00 +0000 UTC'>2026年7月11日</span></footer><a class=entry-link aria-label="post link to 我的網站很乾淨" href=https://niugnep.idv.tw/posts/clean-website.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>為什麼 Codeberg 比 GitHub 更適合放部落格？</h2></header><div class=entry-content><p>就在今天，我正式把自己的部落格遷移到了Codeberg。
+為什麼？ 其實原因很簡單：開放。
+GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。
+此外Codeberg基於自由開源的Forgejo構建，有很強的自由度，並且是真．完全免費。
+連台灣Linux使用者常用的新酷音專案都轉到了Codeberg呢！
+怎麼弄？ 與GitHub要在設定裡搞半天不同，Codeberg的Pages極為單純。
+只要把做好的HTML、CSS跟JavaScript全丟到pages分支，就好了，連設定都不用。
+做好的東西會生成在&lt;你的倉庫名稱>.&lt;你的使用者名稱>.codeberg.page；如果倉庫名叫pages，就是&lt;你的使用者名稱>.codeberg.page。
+額外的好處 GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。
+這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。
+此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。
+看到這裡了，真的不考慮改用Codeberg嗎？</p></div><footer class=entry-footer><span title='2026-07-09 00:00:00 +0000 UTC'>2026年7月9日</span></footer><a class=entry-link aria-label="post link to 為什麼 Codeberg 比 GitHub 更適合放部落格？" href=https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>I use Arch, btw.</h2></header><div class=entry-content><p>不知不覺間，我也用了兩個月半的Arch Linux了。
 那剛好，我段考終於是考完了，就來寫一下使用心得吧。
 什麼是Arch Linux？ 世界上最棒的Linux發行版。
 我不會這麼說，哪個發行版好用因人而異。比如Linus Torvalds用的是Fedora，或者Wiwi官大為用的是Linux Mint等等。
@@ -70,34 +97,7 @@ CPU: 12th Gen Intel(R) Core(TM) i5-12500H RAM: DDR4 3200MHz 16GiB(8+8) 硬碟: N
 另一個讓我難過的點 我們班上都是文盲。 不是我說啊，班上連作業系統都不知道的大概有一半以上，導致我只要在班上基本上沒同伴，不是自言自語就是找別的話題。
 「I wish everybody was as nice as I am.」 – Linus Torvalds
 這裡來的
-...</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to I use Arch, btw." href=https://niugnep.idv.tw/posts/i-use-arch-btw.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>我的網站很乾淨</h2></header><div class=entry-content><p>是的，我說我的網站很乾淨。
-那麼要怎麼證明呢？
-uBlock Origin uBlock Origin 是一個方便的廣告攔截器，在Firefox上有 10,688,871 位使用者（來自Firefox Add-ons網站，截至2026/7/11）。
-而它在我的網站裡查出了幾個廣告呢？答案是：
-0個。
-以此可證明，我沒在網站裡塞任何廣告或者追蹤器。
-其實開啟文章後由於Giscus，網站連接數量會從一個變成三個。
-Firefox Console 那麼眾所周知，Firefox的控制台真的非常的嚴苛。
-沒塞&lt;!DOCTYPE html>也要講一下。
-而我得到了多少個警告？
-沒有，只有開啟文章後Giscus帶來的三個警告。
-不信的話你大可去驗證
-JavaScript JavaScript可謂現代網站與木馬的命脈。
-沒有了它，Google、Bing、Yahoo等網站都不能正常使用。
-那我呢？
-實測關閉JavaScript之後，所有功能（除了Giscus留言板）都可以正常使用。
-所以，能相信我了吧？</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to 我的網站很乾淨" href=https://niugnep.idv.tw/posts/clean-website.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>為什麼 Codeberg 比 GitHub 更適合放部落格？</h2></header><div class=entry-content><p>就在今天，我正式把自己的部落格遷移到了Codeberg。
-為什麼？ 其實原因很簡單：開放。
-GitHub受到母公司Microslop的包袱，有非常大量的商業利益牽扯問題；Codeberg e.V.是位在德國的非營利組織，沒有商業包袱，背景也更單純。
-此外Codeberg基於自由開源的Forgejo構建，有很強的自由度，並且是真．完全免費。
-連台灣Linux使用者常用的新酷音專案都轉到了Codeberg呢！
-怎麼弄？ 與GitHub要在設定裡搞半天不同，Codeberg的Pages極為單純。
-只要把做好的HTML、CSS跟JavaScript全丟到pages分支，就好了，連設定都不用。
-做好的東西會生成在&lt;你的倉庫名稱>.&lt;你的使用者名稱>.codeberg.page；如果倉庫名叫pages，就是&lt;你的使用者名稱>.codeberg.page。
-額外的好處 GitHub Pages是透過CI/CD把Jekyll編譯的東西推到伺服器，而Codeberg是直接透過Webhook推到伺服器。
-這就讓Codeberg可以在一秒內把專案放上去，不用浪費時間在跑多餘的Jekyll，對於我這種本機render的架構可謂再好不過了。
-此外，Codeberg這種架構讓Google的爬蟲一下就抓到了sitemap，非常快速且好用；GitHub因為CI/CD的關係，Google的爬蟲非常容易抓不到sitemap。
-看到這裡了，真的不考慮改用Codeberg嗎？</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to 為什麼 Codeberg 比 GitHub 更適合放部落格？" href=https://niugnep.idv.tw/posts/codeberg-is-better-than-github.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>完了，政府開始做更爛的事情了</h2></header><div class=entry-content><p>注意！
+...</p></div><footer class=entry-footer><span title='2026-06-29 00:00:00 +0000 UTC'>2026年6月29日</span></footer><a class=entry-link aria-label="post link to I use Arch, btw." href=https://niugnep.idv.tw/posts/i-use-arch-btw.html></a></article><article class=post-entry><header class=entry-header><h2 class=entry-hint-parent>完了，政府開始做更爛的事情了</h2></header><div class=entry-content><p>注意！
 本篇文章有過激與政治內容，
 請斟酌觀看。
 各位，你們知道什麼是腦攤政府嗎？
