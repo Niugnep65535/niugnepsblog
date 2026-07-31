@@ -4,8 +4,8 @@ set -e
 hugo --gc --minify
 
 # 保存生成結果
-rm -rf /tmp/file_public
-cp -r public /tmp/file_public
+rm -rf ~/.tmp-file_public
+cp -r public ~/.tmp-file_public
 
 # 回 master，提交原始碼
 git add .
@@ -19,7 +19,7 @@ git checkout pages
 rm -rf *
 
 # 放入 Hugo 產物
-cp -r /tmp/file_public/* .
+cp -r ~/.tmp-file_public/* .
 
 # 提交部署結果
 git add .
