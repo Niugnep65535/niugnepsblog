@@ -1,6 +1,6 @@
 ---
 title: NVIDIA, fuck you!
-date: 2026-08-01
+date: 2026-08-01T21:00:00+08:00
 tags:
 - NVIDIA
 - GNU/Linux
