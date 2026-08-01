@@ -10,12 +10,11 @@
 然後就是Entity Framework了。它是一個讓SQL查詢沒那麼反人類的.NET工具。比如SQL指令長這樣：&lt;/p&gt;
 &lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-sql" data-lang="sql"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;SELECT&lt;/span&gt; &lt;span style="color:#f92672"&gt;*&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;FROM&lt;/span&gt; users
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;WHERE&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;type&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#39;homo&amp;#39;&lt;/span&gt;;&lt;span style="color:#f92672"&gt;```&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#960050;background-color:#1e0010"&gt;然後&lt;/span&gt;Entity Framework長這樣&lt;span style="color:#960050;background-color:#1e0010"&gt;：&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#f92672"&gt;```&lt;/span&gt;cs
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;using&lt;/span&gt; (var db &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;new&lt;/span&gt; Entities())&lt;span style="color:#960050;background-color:#1e0010"&gt;{&lt;/span&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; var homos &lt;span style="color:#f92672"&gt;=&lt;/span&gt; db.users.&lt;span style="color:#66d9ef"&gt;Where&lt;/span&gt;(x &lt;span style="color:#f92672"&gt;=&amp;gt;&lt;/span&gt; x.&lt;span style="color:#66d9ef"&gt;type&lt;/span&gt; &lt;span style="color:#f92672"&gt;==&lt;/span&gt; homo);
-&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#960050;background-color:#1e0010"&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;WHERE&lt;/span&gt; &lt;span style="color:#66d9ef"&gt;type&lt;/span&gt; &lt;span style="color:#f92672"&gt;=&lt;/span&gt; &lt;span style="color:#e6db74"&gt;&amp;#39;homo&amp;#39;&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;然後Entity Framework長這樣：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;-webkit-text-size-adjust:none;"&gt;&lt;code class="language-cs" data-lang="cs"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#66d9ef"&gt;using&lt;/span&gt; (&lt;span style="color:#66d9ef"&gt;var&lt;/span&gt; db = &lt;span style="color:#66d9ef"&gt;new&lt;/span&gt; Entities()){
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt; &lt;span style="color:#66d9ef"&gt;var&lt;/span&gt; homos = db.users.Where(x =&amp;gt; x.type == homo);
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;}
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;看起來舒服了吧！&lt;br&gt;
 但是我的EF卻一直炸一直炸，後來才發現居然是引用了&lt;code&gt;System.Data&lt;/code&gt;，要引用&lt;code&gt;System.Data.Entity.Core&lt;/code&gt;才能繼續用&amp;hellip;&lt;br&gt;
 我是很不清楚我的分數如何，因為好像只有我把這堆SQL修好，但程式部份我又沒做完&amp;hellip;&lt;/p&gt;

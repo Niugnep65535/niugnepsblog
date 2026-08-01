@@ -22,7 +22,8 @@ draft: false
 ```sql
 SELECT *
 FROM users
-WHERE type = 'homo';```
+WHERE type = 'homo';
+```
 然後Entity Framework長這樣：  
 ```cs
 using (var db = new Entities()){

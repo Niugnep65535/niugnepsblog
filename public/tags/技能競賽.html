@@ -8,7 +8,8 @@
 說白了就是個聊天軟體，參加了青年組商軟設計應該會有印象。
 這次給的資料庫與以往不一樣，給的是.sql檔案，也就是SQL查詢語言的腳本檔案，要用這檔案建立資料庫。令我不解的是，一堆人不知道這幹嘛的。
 然後就是Entity Framework了。它是一個讓SQL查詢沒那麼反人類的.NET工具。比如SQL指令長這樣：
-SELECT * FROM users WHERE type = 'homo';``` 然後Entity Framework長這樣： ```cs using (var db = new Entities()){ var homos = db.users.Where(x => x.type == homo); } 看起來舒服了吧！
+SELECT * FROM users WHERE type = 'homo'; 然後Entity Framework長這樣：
+using (var db = new Entities()){ var homos = db.users.Where(x => x.type == homo); } 看起來舒服了吧！
 但是我的EF卻一直炸一直炸，後來才發現居然是引用了System.Data，要引用System.Data.Entity.Core才能繼續用…
 我是很不清楚我的分數如何，因為好像只有我把這堆SQL修好，但程式部份我又沒做完…
 比賽項目2、3 然後就是簡報了。
