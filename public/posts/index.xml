@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Niugnep 的部落格</title><link>https://niugnep.idv.tw/posts/index.html</link><description>Recent content in Posts on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Sat, 01 Aug 2026 21:00:00 +0800</lastBuildDate><atom:link href="https://niugnep.idv.tw/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>NVIDIA, fuck you!</title><link>https://niugnep.idv.tw/posts/nvidia-fuck-you.html</link><pubDate>Sat, 01 Aug 2026 21:00:00 +0800</pubDate><guid>https://niugnep.idv.tw/posts/nvidia-fuck-you.html</guid><description>&lt;blockquote&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>Posts on Niugnep 的部落格</title><link>https://niugnep.idv.tw/posts/index.html</link><description>Recent content in Posts on Niugnep 的部落格</description><generator>Hugo</generator><language>zh-Hant</language><lastBuildDate>Sun, 02 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>NVIDIA, fuck you!</title><link>https://niugnep.idv.tw/posts/nvidia-fuck-you.html</link><pubDate>Sun, 02 Aug 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/nvidia-fuck-you.html</guid><description>&lt;blockquote&gt;
 &lt;p&gt;[!CAUTION]&lt;br&gt;
 我在寫這篇文章的時候情緒很難平復！&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -20,7 +20,26 @@
 ㄊㄇㄉ這老黃是搞了什麼可以讓體驗這麼糟糕？？&lt;/p&gt;
 &lt;h2 id="nvidia-fuck-you"&gt;NVIDIA, fuck you!&lt;/h2&gt;
 &lt;p&gt;這廠商早在2012就已經被Linus Torvalds送上中指（&lt;a href="https://youtu.be/Q4SWxWIOVBM?si=54q-lrSGZGmuzpaQ&amp;amp;t=26"&gt;詳情&lt;/a&gt;），十四年過去，老黃沒長記性啊。&lt;br&gt;
-我不會再買綠廠顯卡了。&lt;/p&gt;</description></item><item><title>56屆技能競賽決賽第二天</title><link>https://niugnep.idv.tw/posts/national-skills-day-2.html</link><pubDate>Sat, 01 Aug 2026 17:00:00 +0800</pubDate><guid>https://niugnep.idv.tw/posts/national-skills-day-2.html</guid><description>&lt;p&gt;啊，這裡是剛比完賽的Niugnep。&lt;br&gt;
+我不會再買綠廠顯卡了。&lt;/p&gt;
+&lt;h2 id="202682事件後續"&gt;2026/8/2事件後續&lt;/h2&gt;
+&lt;p&gt;本文在2026/8/1撰寫，有些好玩的事情想聊。&lt;br&gt;
+我爸直接問我為什麼不用Windows，還說預設就Windows，刷成Linux在嫌棄很怪？&lt;br&gt;
+我不這麼認為。&lt;br&gt;
+首先，Windows的使用體驗極差，我不希望我玩個遊戲要：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;開機&lt;/li&gt;
+&lt;li&gt;轉兩分鐘圈圈，跳出「正在自動修復硬碟」&lt;/li&gt;
+&lt;li&gt;以為能登入，又開始「正在準備Windows」&lt;/li&gt;
+&lt;li&gt;登入、開遊戲，我玩到一半，顯示「正在進行更新，請勿關閉電腦」&lt;/li&gt;
+&lt;li&gt;重新開機，發現我工作的Arch引導沒了&lt;/li&gt;
+&lt;li&gt;拿出隨身碟，修復GRUB
+我是來玩遊戲，不是跟Microslop玩你追我趕的。&lt;br&gt;
+再來，其實Thinkpad X220本就安裝Windows，但是卻因為極強的相容性，被Linux社群當成寶。&lt;br&gt;
+你說他們奇怪？社群裡一堆人這樣幹。&lt;br&gt;
+而且我本就期待遊戲能直接跑。Hoyoverse下放了反作弊門檻，Valve開發了Proton，An Anime Game Launcher也提供了順暢的體驗，大家都坐好了就NVIDIA不配合，奇怪的是我？&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;然後我還架了個網站：&lt;a href="https://qiqi.niugnep.idv.tw"&gt;Where is my Qiqi?&lt;/a&gt;&lt;br&gt;
+可以去看看。&lt;/p&gt;</description></item><item><title>56屆技能競賽決賽第二天</title><link>https://niugnep.idv.tw/posts/national-skills-day-2.html</link><pubDate>Sat, 01 Aug 2026 17:00:00 +0800</pubDate><guid>https://niugnep.idv.tw/posts/national-skills-day-2.html</guid><description>&lt;p&gt;啊，這裡是剛比完賽的Niugnep。&lt;br&gt;
 今天圖片不會多，因為懶owo&lt;/p&gt;
 &lt;h2 id="比賽前"&gt;比賽前&lt;/h2&gt;
 &lt;p&gt;早餐是麥當勞。&lt;br&gt;
