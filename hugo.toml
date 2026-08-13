@@ -3,6 +3,7 @@ locale = 'zh-Hant'
 title = 'Niugnep 的部落格'
 theme = "PaperMod"
 uglyURLs = true
+copyright = "© 2026 Niugnep Hsueh | 透過 CC BY 4.0 授權"
 
 [params]
   ShowSearch = true
