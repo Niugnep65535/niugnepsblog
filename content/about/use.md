@@ -1,9 +1,8 @@
 ---
-title: 裝備欄
-date: 2026-07-28
+title: Niugnep用些什麼
+date: 2026-08-14
 draft: false
 comments: false
-url: "/inventory.html"
 ---
 這個地方參考了[Wiwi 官大為的部落格的《Wiwi 現在愛用什麼》](https://wiwi.blog/use)，  
 肯定會雷同，別擔心，都我寫的awa  
@@ -14,7 +13,7 @@ url: "/inventory.html"
 ### 電腦(x86)
  * GIGABYTE G5 GE：目前的主力機，很好用，但是貼牌機的Linux韌體拉完了
  * Acer Aspire K50-10：目前的第二裝置，通常在主力機需要長期帶出去時在家用
- * Acer TravelMate 3020：上古神機，挑戰極限專用
+ * Acer TravelMate 3020：上古神機，非常少用
 ### 手機(AArch64)
  * Pixel 7 Pro：目前主力機，在我[上一台手機壞掉之後](posts/phone-broken.html)我爸給我的
  * Galaxy A33 5G：發現換手機對考試沒幫助後吃灰中
@@ -27,8 +26,8 @@ url: "/inventory.html"
 ## 電腦軟體
  > 我的原則與Wiwi類似。可行前提下以FOSS與開放格式為主；無法使用自由軟體的工作項目也盡力準備替代方案。
 ### 作業系統
- * Arch Linux：大多數電腦用的系統
- * Debian Linux Bookworm：那台上古神機用的，因為不可能天天滾
+ * Arch Linux：主力機目前的系統，有規劃轉到Debian
+ * Debian GNU/Linux Trixie：那台Aspire用的，因為不可能天天滾
  * Windows 10：裝在隨身碟當工具人
 ### 瀏覽器
  * Firefox：主力瀏覽器，江湖人稱(?)外掛天堂
@@ -41,16 +40,16 @@ url: "/inventory.html"
  * FFmpeg：最強的影音轉檔工具
  * Git：不用我多說吧
 ### 媒體播放器
- * VLC Player：最好用的GUI媒體播放器
+ * VLC Player：我這裡不能播放影片，不知道為什麼
  * mpv：很沈浸式的影片播放器
 ### 文字編輯器
  * Nano：設定檔編輯用
- * Kate：這不是進階編輯器，這根本IDE
+ * Micro：我都當記事本在用，太過癮了
  * Notepad++：Windows下的編輯器之神，但是字體很醜
- * VSCodium：除了太重都很好用
+ * Visual Studio：開發C#還得是親兒子
 ### 辦公軟體
  * LibreOffice：很好用的辦公軟體
- * Microsoft Office：神金技能競賽主辦單位要求
+ * Microsoft Office：現在也很少在用
 
 ## 雲端服務
  > 商業屬性的我能不用就不用，除非太強。
@@ -65,10 +64,10 @@ url: "/inventory.html"
 ### 其他免費服務
  * Codeberg：好用的託管平台，這網站就是用它託管的
  * Cloudflare：Internet大善人，功德過滿，這網站的網域就是用它託管的
- * Facebook：我只拿來~~嗆~~看我媽的粉專
- * ~~Instagram、Threads~~：偽人社群毋庸置疑（殭屍帳號沒在用）
- * YouTube：我都拿來放旋轉
- * Proton：主要Email服務商，目前轉到幕後工作（Cloudflare Forwarding）
+ * ~~Facebook~~：我媽有巴哈，巴哈尊重人多了（停用）
+ * ~~Instagram、Threads~~：偽人社群毋庸置疑（30天冷卻結束後移除）
+ * YouTube：我拿來放奇葩挑戰
+ * Proton：主要Email服務商，目前轉到幕後工作（Cloudflare Forwarding）。限制好多求替代方案
  * Resend：每個月100封額度還是很夠用的
 ### 其他付費服務
  > 因為零用錢花到月光，除了父母訂閱的順風車外全退訂了
@@ -85,7 +84,7 @@ url: "/inventory.html"
  * F-Droid：全都是自由的好康
  * Aurora Store：不用登入也能裝大眾軟體
 ### 通訊類
- * LINE：我只是在一堆史裡面，挑了身邊人難分難捨的史
+ * LINE：我只是在一堆史裡面，被迫挑了身邊人難分難捨的史
  * Discord：依然很有商業味道，但好用多了
 ### 網路與網際網路相關
  * Cromite：主要瀏覽器，能擋廣告但沒uBlock強
@@ -94,7 +93,6 @@ url: "/inventory.html"
  * PipePipe：進化出BiliBili跟NicoNico支援的NewPipe，專門刷B站
  * OpenTune：YouTube Music的超漂亮前端
  * Localsend：好用的檔案傳輸工具
- * Proton Mail：網頁手機版不能解密郵件，哈哈
  * Seal：yt-dlp的手機界面
 ### 輸入法
  * Trime：基於中州韻輸入法引擎的手機輸入法
@@ -103,7 +101,7 @@ url: "/inventory.html"
  * Organic Maps：離線地圖真香
  * Quillpad：支援MD的Google Keep替代品
  * VLC：看影片很棒，聽音樂很怪
- * Secure Camera：GrapheneOS唯一好看又好用的軟體
+ * Secure Camera：GrapheneOS唯一好看又好用的軟體，甚至上架了Play Store
  * Xed-Editor：與Linux Mint的Xed淵源未知，好用就對了
 ### 遊戲
  * Stack Tower 3D：不得不說有創意

@@ -1,8 +1,8 @@
 baseURL = 'https://niugnep.idv.tw/'
 locale = 'zh-Hant'
 title = 'Niugnep 的部落格'
-theme = "PaperMod"
-uglyURLs = true
+theme = "PaperMod" 
+uglyURLs = true # 我好像能理解為什麼Windows會變成超級史山了。我的舊版架構就是uglyURLs
 copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
 
 [params]
@@ -11,7 +11,7 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
   comments = true
 
 [[menu.main]]
-  name = "文章"       # 顯示在選單上的文字
+  name = "貼文"       # 顯示在選單上的文字
   url = "/posts"     # 點擊後的連結
   weight = 10         # 排序（數字越小越靠左）
 
@@ -20,10 +20,6 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
   url = "/tags"
   weight = 20
 
-[[menu.main]]
-  name = "我推"
-  url = "/recommend.html"
-  weight = 30
 
 [[menu.main]]
   name = "關於"
@@ -31,14 +27,24 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
   weight = 40
 
 [[menu.main]]
+  name = "新聞評論"
+  url = "/news"
+  weight = 40
+
+[[menu.main]]
+  name = "世界線"
+  url = "/worldline"
+  weight = 50
+
+[[menu.main]]
   name = "現況"
   url = "/now.html"
   weight = 50
 
 [[menu.main]]
-  name = "裝備"
-  url = "/inventory.html"
-  weight = 50
+  name = "我推"
+  url = "/recommend.html"
+  weight = 30
 
 [[menu.main]]
   name = "搜尋"
