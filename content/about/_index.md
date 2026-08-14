@@ -11,6 +11,7 @@ comments: false
  * [關於網站](site.html)
  * [本站RSS](rss.html)
  * [成就](achievements.html)
+ * [Niugnep 用些什麼](use.html)
 
 ---
 *由於Hugo限制，底下會重複出現這些子頁面*
