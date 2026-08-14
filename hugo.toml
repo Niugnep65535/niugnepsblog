@@ -20,24 +20,23 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
   url = "/tags"
   weight = 20
 
-
 [[menu.main]]
   name = "關於"
   url = "/about"
   weight = 40
 
 [[menu.main]]
-  name = "新聞評論"
+  name = "新聞"
   url = "/news"
   weight = 40
 
 [[menu.main]]
-  name = "世界線"
+  name = "小說"
   url = "/worldline"
   weight = 50
 
 [[menu.main]]
-  name = "現況"
+  name = "近況"
   url = "/now.html"
   weight = 50
 
@@ -47,7 +46,7 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
   weight = 30
 
 [[menu.main]]
-  name = "搜尋"
+  name = "🔎"
   url = "/search.html"
   weight = 50
 
