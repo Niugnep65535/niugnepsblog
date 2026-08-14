@@ -1,11 +1,9 @@
 ---
 title: 關於我
-date: 2026-08-13
+date: 2026-08-14
 draft: false
 comments: false
-url: "/about/me.md"
 ---
- > 本頁面為Niugnep的基本資料與自我介紹。
 
 我是Niugnep，喜愛開源社群的國中生。
 
