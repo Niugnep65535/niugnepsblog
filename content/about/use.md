@@ -26,8 +26,8 @@ comments: false
 ## 電腦軟體
  > 我的原則與Wiwi類似。可行前提下以FOSS與開放格式為主；無法使用自由軟體的工作項目也盡力準備替代方案。
 ### 作業系統
- * Arch Linux：主力機目前的系統，有規劃轉到Debian
- * Debian GNU/Linux Trixie：那台Aspire用的，因為不可能天天滾
+ * Debian GNU/Linux Trixie：幾乎所有電腦安裝，真香定律這一塊
+ * Arch Linux：開了個超級大坑，虛擬機還是得裝一下
  * Windows 10：裝在隨身碟當工具人
 ### 瀏覽器
  * Firefox：主力瀏覽器，江湖人稱(?)外掛天堂
@@ -40,8 +40,7 @@ comments: false
  * FFmpeg：最強的影音轉檔工具
  * Git：不用我多說吧
 ### 媒體播放器
- * VLC Player：我這裡不能播放影片，不知道為什麼
- * mpv：很沈浸式的影片播放器
+ * VLC Player：反正對我而言是最好用的媒體播放器
 ### 文字編輯器
  * Nano：設定檔編輯用
  * Micro：我都當記事本在用，太過癮了
