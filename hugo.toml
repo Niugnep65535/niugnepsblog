@@ -22,7 +22,7 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
 
 [[menu.main]]
   name = "關於"
-  url = "/about"
+  url = "/about.html"
   weight = 40
 
 [[menu.main]]
