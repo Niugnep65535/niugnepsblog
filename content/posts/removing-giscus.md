@@ -6,7 +6,7 @@ tags:
 - Open Web
 - 部落格
 draft: false
-comment: false
+comments: false
 ---
 我其實有想讓我的網頁能達到100%自由，但是那不太可能。
 
