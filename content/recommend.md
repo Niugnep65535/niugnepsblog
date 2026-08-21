@@ -22,3 +22,4 @@ url: "/recommend.html"
 | [Leaftechblog](https://www.leaftechblog.cloudns.biz/) | Leaf的科技部落格 | 挖過CVE的大佬 |
 | [SamHacker Blog](https://blog.samhacker.xyz/) | 一個熱愛 Coding 的高中生的科技部落格 | 這麼可愛一定是男孩子對吧 |
 | [It's小白不是小白](https://itsxiaobai.github.io/) | 喜歡開源跟自由軟體，偶爾玩一下混音的高中生 | 哥們部落格太像Wiwi的了吧 |
+| [心是灵的博客](https://itsxiaobai.github.io/) | 發表一些電腦使用技巧與個人觀點的地方 | 哥們小心點pwp |
