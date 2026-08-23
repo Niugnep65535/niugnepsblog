@@ -12,7 +12,8 @@ comments: false
  > 本人目前的裝置都盡量以「能使用開源作業系統，或者能大幅修改」為主。
 ### 電腦(x86)
  * GIGABYTE G5 GE：目前的主力機，很好用，但是貼牌機的Linux韌體拉完了
- * Acer Aspire K50-10：目前的第二裝置，通常在主力機需要長期帶出去時在家用
+ * Acer Aspire K50-10：目前的外出裝置，除非效能不夠用
+ * B360M Gaming HD：我爸給我的電腦，通常在主力機需要長期帶出去時在家用
  * Acer TravelMate 3020：上古神機，非常少用
 ### 手機(AArch64)
  * Pixel 7 Pro：目前主力機，在我[上一台手機壞掉之後](posts/phone-broken.html)我爸給我的
@@ -27,12 +28,13 @@ comments: false
  > 我的原則與Wiwi類似。可行前提下以FOSS與開放格式為主；無法使用自由軟體的工作項目也盡力準備替代方案。
 ### 作業系統
  * Debian GNU/Linux Trixie：幾乎所有電腦安裝，真香定律這一塊
+ * Ubuntu 22.04：除了我主力機必須完全穩定以防被揍，其他我[也](https://ivonblog.com/posts/linux-learning-history-3th-year/)已經隨便了
  * Arch Linux：開了個超級大坑，虛擬機還是得裝一下
  * Windows 10：裝在隨身碟當工具人
 ### 瀏覽器
- * Firefox：主力瀏覽器，江湖人稱(?)外掛天堂
- * Chromium：只是裝來準備幫未來的Pixel救磚的
- * Internet Explorer：極限相容性測試才用
+ * Librewolf：主力瀏覽器，Firefox自由版
+ * Ungoogled Chromium：相容性測試用
+ * Firefox：用途同IE（拿來裝Librewolf）
 ### 終端機相關
  * Kitty：很快的終端機模擬器
  * Konsole：KDE的終端機模擬器
@@ -57,8 +59,9 @@ comments: false
  * Google Workspace：Classroom是真的主宰臺灣數位學習
  * ~~橘子蘋果~~：我畢業了用什麼用
 ### AI相關
- * Gemini：我爸訂閱的超香，但是有變笨的趨勢
+ * Gemini：我爸訂閱的超香，但是有變笨的趨勢，然後神人開發者讓防火牆過於嚴格
  * ChatGPT：免費版也還夠用，實務方面不錯
+ * Deepseek：真香定律這一塊
  * ~~Claude~~：我號被封了（未滿18歲）
 ### 其他免費服務
  * Codeberg：好用的託管平台，這網站就是用它託管的
