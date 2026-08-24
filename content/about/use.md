@@ -27,17 +27,17 @@ comments: false
 ## 電腦軟體
  > 我的原則與Wiwi類似。可行前提下以FOSS與開放格式為主；無法使用自由軟體的工作項目也盡力準備替代方案。
 ### 作業系統
- * Debian GNU/Linux Trixie：幾乎所有電腦安裝，真香定律這一塊
- * Ubuntu 22.04：除了我主力機必須完全穩定以防被揍，其他我[也](https://ivonblog.com/posts/linux-learning-history-3th-year/)已經隨便了
+ * Ubuntu 26.04 LTS：我[也](https://ivonblog.com/posts/linux-learning-history-3th-year/)已經隨便了
+ * Ubuntu 22.04 LTS：下到舊版本懶的更新
  * Arch Linux：開了個超級大坑，虛擬機還是得裝一下
  * Windows 10：裝在隨身碟當工具人
 ### 瀏覽器
  * Librewolf：主力瀏覽器，Firefox自由版
  * Ungoogled Chromium：相容性測試用
- * Firefox：用途同IE（拿來裝Librewolf）
+ * ~~Firefox~~：用途同IE（拿來裝Librewolf；已移除）
 ### 終端機相關
- * Kitty：很快的終端機模擬器
- * Konsole：KDE的終端機模擬器
+ * Kitty：潛力無限的終端機模擬器
+ * Ptyxis：GNOME終端機模擬器
  * yt-dlp：最強影片下載器
  * FFmpeg：最強的影音轉檔工具
  * Git：不用我多說吧

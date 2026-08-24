@@ -1,0 +1,15 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "執行 Shell 腳本",
+      "runtimeExecutable": "bash",
+      "runtimeArgs": [
+        "builder.sh"
+      ],
+      "console": "integratedTerminal"
+    }
+  ]
+}
