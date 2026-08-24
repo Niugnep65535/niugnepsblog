@@ -9,7 +9,7 @@
       "runtimeArgs": [
         "builder.sh"
       ],
-      "console": "integratedTerminal"
+      "console": "kitty"
     }
   ]
 }
