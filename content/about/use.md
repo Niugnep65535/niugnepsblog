@@ -41,13 +41,14 @@ comments: false
  * yt-dlp：最強影片下載器
  * FFmpeg：最強的影音轉檔工具
  * Git：不用我多說吧
+ * Micro：設定檔編輯用
 ### 媒體播放器
  * VLC Player：反正對我而言是最好用的媒體播放器
 ### 文字編輯器
- * Nano：設定檔編輯用
- * Micro：我都當記事本在用，太過癮了
+ * GNOME文字編輯器：其實很好用
  * Notepad++：Windows下的編輯器之神，但是字體很醜
- * Visual Studio：開發C#還得是親兒子
+ * Visual Studio Code：開發C#還得是親兒子
+ * VSCodium：當我不開發C#
 ### 辦公軟體
  * LibreOffice：很好用的辦公軟體
  * Microsoft Office：現在也很少在用

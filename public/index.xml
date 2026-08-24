@@ -89,6 +89,7 @@
 &lt;li&gt;yt-dlp：最強影片下載器&lt;/li&gt;
 &lt;li&gt;FFmpeg：最強的影音轉檔工具&lt;/li&gt;
 &lt;li&gt;Git：不用我多說吧&lt;/li&gt;
+&lt;li&gt;Micro：設定檔編輯用&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="媒體播放器"&gt;媒體播放器&lt;/h3&gt;
 &lt;ul&gt;
@@ -96,10 +97,10 @@
 &lt;/ul&gt;
 &lt;h3 id="文字編輯器"&gt;文字編輯器&lt;/h3&gt;
 &lt;ul&gt;
-&lt;li&gt;Nano：設定檔編輯用&lt;/li&gt;
-&lt;li&gt;Micro：我都當記事本在用，太過癮了&lt;/li&gt;
+&lt;li&gt;GNOME文字編輯器：其實很好用&lt;/li&gt;
 &lt;li&gt;Notepad++：Windows下的編輯器之神，但是字體很醜&lt;/li&gt;
-&lt;li&gt;Visual Studio：開發C#還得是親兒子&lt;/li&gt;
+&lt;li&gt;Visual Studio Code：開發C#還得是親兒子&lt;/li&gt;
+&lt;li&gt;VSCodium：當我不開發C#&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="辦公軟體"&gt;辦公軟體&lt;/h3&gt;
 &lt;ul&gt;
