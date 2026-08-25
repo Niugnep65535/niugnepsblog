@@ -12,7 +12,8 @@ draft: false
 ## 準備工作
 1. 備份家目錄下的`.ssh`資料夾
 ```sh
-cp -r ~/.ssh <隨身碟>/ssh/*
+mkdir <隨身碟>/ssh
+cp -r ~/.ssh/* <隨身碟>/ssh
 ```
 2. 匯出GPG金鑰：
 ```sh
