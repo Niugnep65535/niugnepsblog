@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>GNU/Linux on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/gnu/linux.html</link><description>Recent content in GNU/Linux on Niugnep 的部落格</description><generator>Hugo</generator><language>en</language><copyright>2026 Niugnep Hsueh · 透過 CC BY 4.0 授權</copyright><lastBuildDate>Sun, 16 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/gnu/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>反正我現在用Debian</title><link>https://niugnep.idv.tw/posts/anyway-debian-now.html</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/anyway-debian-now.html</guid><description>&lt;p&gt;你們知道什麼是啪啪打臉嗎？&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>GNU/Linux on Niugnep 的部落格</title><link>https://niugnep.idv.tw/tags/gnu/linux.html</link><description>Recent content in GNU/Linux on Niugnep 的部落格</description><generator>Hugo</generator><language>en</language><copyright>2026 Niugnep Hsueh · 透過 CC BY 4.0 授權</copyright><lastBuildDate>Tue, 25 Aug 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://niugnep.idv.tw/tags/gnu/linux/index.xml" rel="self" type="application/rss+xml"/><item><title>Distro Hopping的一點皮毛筆記</title><link>https://niugnep.idv.tw/posts/basic-reinstall.html</link><pubDate>Tue, 25 Aug 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/basic-reinstall.html</guid><description>&lt;p&gt;因為這陣子常常換系統（Arch -&amp;gt; Debian -&amp;gt; Ubuntu -&amp;gt; Kubuntu），決定把換系統的操作整理一下給大家參考。&lt;/p&gt;
+&lt;h2 id="準備工作"&gt;準備工作&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;備份家目錄下的&lt;code&gt;.ssh&lt;/code&gt;資料夾&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;cp -r ~/.ssh &amp;lt;隨身碟&amp;gt;/ssh/*
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start="2"&gt;
+&lt;li&gt;匯出GPG金鑰：&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;gpg --export &amp;lt;金鑰ID&amp;gt; &amp;gt; gpg_public.asc &lt;span style="color:#75715e"&gt;# 匯出公鑰&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;gpg --export-secret-keys &amp;lt;金鑰ID&amp;gt; &amp;gt; gpg_private.asc &lt;span style="color:#75715e"&gt;# 匯出私鑰&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start="3"&gt;
+&lt;li&gt;備份沒有上傳到雲端/GitHub的專案、音樂、圖片等&lt;/li&gt;
+&lt;li&gt;備份設定文件（位在&lt;code&gt;.config&lt;/code&gt;下，對&lt;code&gt;kitty&lt;/code&gt;、Hyprland等使用設定檔設定的軟體尤其重要）&lt;/li&gt;
+&lt;li&gt;備份瀏覽器設定（可選）&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id="正式安裝"&gt;正式安裝&lt;/h2&gt;
+&lt;p&gt;主要分為以下步驟：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;更新系統&lt;/li&gt;
+&lt;li&gt;升級系統（如果是舊版point release）&lt;/li&gt;
+&lt;li&gt;安裝驅動&lt;/li&gt;
+&lt;li&gt;解除安裝Snap（Ubuntu系，可選）&lt;/li&gt;
+&lt;li&gt;安裝Flatpak（可選）&lt;/li&gt;
+&lt;li&gt;安裝必要軟體&lt;/li&gt;
+&lt;li&gt;還原設定、還原資料&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id="更新系統"&gt;更新系統&lt;/h2&gt;
+&lt;p&gt;依照發行版派系有所不同：&lt;/p&gt;
+&lt;div class="highlight"&gt;&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"&gt;&lt;code class="language-sh" data-lang="sh"&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Debian / Ubuntu&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo apt update; sudo apt upgrade
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Arch / Manjaro / CachyOS&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo pacman -Syu
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;&lt;span style="color:#75715e"&gt;# Fedora / RHEL / Rocky&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style="display:flex;"&gt;&lt;span&gt;sudo dnf upgrade --refresh
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;對於Linux Mint，可以透過更新管理員進行更新；對於KDE neon，建議透過Discover應用程式更新。&lt;/p&gt;</description></item><item><title>反正我現在用Debian</title><link>https://niugnep.idv.tw/posts/anyway-debian-now.html</link><pubDate>Sun, 16 Aug 2026 00:00:00 +0000</pubDate><guid>https://niugnep.idv.tw/posts/anyway-debian-now.html</guid><description>&lt;p&gt;你們知道什麼是啪啪打臉嗎？&lt;/p&gt;
 &lt;p&gt;就在六月底，我寫了跟Arch有關的文章（&lt;a href="https://niugnep.idv.tw/posts/i-use-arch-btw.html"&gt;這裡&lt;/a&gt;），並提到我暫時不會換別的發行版。然後真香定律把我押來了Debian Trixie。&lt;/p&gt;
 &lt;p&gt;（什麼神經病桌布）&lt;br&gt;
 &lt;img alt="Debian + Ubuntu" loading="lazy" src="https://i.meee.com.tw/wgEvbiO.png"&gt;&lt;/p&gt;
