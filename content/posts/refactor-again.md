@@ -18,3 +18,5 @@ draft: false
 畢竟GitHub還是穩定的多，套Cloudflare是因為GSC沒法存取GitHub Pages的Sitemap。
 
 反正就這樣。
+
+補充：Cloudflare居然會自動把Ugly URLs轉成Pretty　URLs，還好Ugly URLs有個308讓我不用挨家挨戶請大家改我在blogroll的連結（
