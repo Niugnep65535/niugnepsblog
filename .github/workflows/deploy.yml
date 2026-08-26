@@ -3,7 +3,12 @@ name: Deploy Hugo Site to Cloudflare Pages
 on:
   push:
     branches:
-      - master  # 或 main，依你目前的主分支名稱
+      - master
+
+# 加入這段權限宣告
+permissions:
+  contents: read
+  deployments: write
 
 jobs:
   build-and-deploy:
@@ -12,7 +17,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          submodules: true  # 抓取 PaperMod 主題 submodule
+          submodules: true
           fetch-depth: 0
 
       - name: Setup Hugo
@@ -29,6 +34,6 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          projectName: 'niugnepsblog' # Cloudflare Pages 專案名稱（若無會自動建立）
+          projectName: 'niugnepsblog'
           directory: 'public'
           gitHubToken: ${{ secrets.GITHUB_TOKEN }}
