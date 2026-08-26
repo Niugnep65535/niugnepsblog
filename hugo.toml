@@ -26,11 +26,6 @@ copyright = "© 2026 Niugnep Hsueh · 透過 CC BY 4.0 授權"
   weight = 40
 
 [[menu.main]]
-  name = "新聞"
-  url = "/news"
-  weight = 40
-
-[[menu.main]]
   name = "小說"
   url = "/worldline"
   weight = 50
