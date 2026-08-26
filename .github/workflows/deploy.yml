@@ -1,0 +1,34 @@
+name: Deploy Hugo Site to Cloudflare Pages
+
+on:
+  push:
+    branches:
+      - master  # 或 main，依你目前的主分支名稱
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # 抓取 PaperMod 主題 submodule
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3
+        with:
+          hugo-version: 'latest'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+
+      - name: Publish to Cloudflare Pages
+        uses: cloudflare/pages-action@v1
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          projectName: 'niugnepsblog' # Cloudflare Pages 專案名稱（若無會自動建立）
+          directory: 'public'
+          gitHubToken: ${{ secrets.GITHUB_TOKEN }}
