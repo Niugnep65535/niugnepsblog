@@ -22,7 +22,7 @@ comments: false
 ## 聯絡資訊
  * 網站：[https://niugnep.idv.tw](https://niugnep.idv.tw)，也就是這裡！
  * Email：[penguin@niugnep.idv.tw](mailto:penguin@niugnep.idv.tw)
- * GnuPG公鑰：E3 4C 2A 9E 2A 5F D9 DA \| [公鑰（GitHub）](https://raw.githubusercontent.com/StupidestJack/StupidestJack/refs/heads/main/gnupg_public.asc)
+ * GnuPG公鑰：338A E72F 23DE 1D38 C89C F1DF 6087 0264 2EC6 1B5C \| [OpenPGP.org](https://keys.openpgp.org/search?q=penguin%40niugnep.idv.tw)
  * GitHub：[@StupidestJack](https://github.com/StupidestJack)
  * Codeberg：[@niugnep87](https://codeberg.org/niugnep87)
  * YouTube：[@StupidestJack](https://www.youtube.com/@StupidestJack)
