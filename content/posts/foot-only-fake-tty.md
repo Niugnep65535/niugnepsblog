@@ -9,9 +9,11 @@ draft: false
 tty好是好，但是沒有中文。
 
 沒有中文就算了，它還有三個最致命的缺陷：  
-難看！  
-**難看！！**
-### 還是ㄊㄇㄉ難看！！！
+ * 難看！  
+ * *難看！！*
+ * ***還是ㄊㄇㄉ難看！！！***
+
+---
 
 那你開個桌面環境好看些了吧，又費電還會誤觸，也難專注：
  > Mostly I use a text console, for convenience's sake. Most of my work is editing text and that is more efficient on a text console. On the text console, the touchpad can't cause me any trouble if I touch it by accident. The mouse can't make my editing commands fail to work by being on the wrong window.   
