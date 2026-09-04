@@ -1,4 +1,4 @@
-`---
+---
 title: Foot獨占的假tty環境
 date: 2026-09-04
 tags:
