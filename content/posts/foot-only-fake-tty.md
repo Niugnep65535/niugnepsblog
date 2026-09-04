@@ -68,7 +68,7 @@ touch ~/.config/foot/foot.ini
 
 # 設定權限
 chmod 644 ~/.config/sway/foot-only
-chmod 644 ~/.config/sway/start-terminal.sh # 可選
+chmod 755 ~/.config/sway/start-terminal.sh # 可選
 ```
 
 設定Sway的Foot專用設定檔（`~/.config/sway/foot-only`）：
@@ -84,7 +84,7 @@ exec --no-startup-id swaybg -i /path/to/wallpaper.jpg -m fill
 exec --no-startup-id fcitx5 -d 
 
 # 啟動Foot本體
-exec_always --no-startup-id foot ~/.config/sway/start_terminal.sh
+exec_always --no-startup-id foot ~/.config/sway/start-terminal.sh
 ```
 
 （可選）關閉終端機之後詢問要不要重新開啟終端機（`~/.config/sway/start-terminal.sh`）：
