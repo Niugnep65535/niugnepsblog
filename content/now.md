@@ -12,7 +12,7 @@ comments: false
 ## 最近放上網路的
  * [Resend Mailer](https://github.com/Niugnep65535/ResendMailer)：一個好用的TUI Resend前端
  * YouTube：持續我的長期系列
- * [Foot-only session](https://niugnep.idv.tw/posts/foot-only-fake-tty.md)：一個有意思的假tty方案
+ * [Foot-only session](https://niugnep.idv.tw/posts/foot-only-fake-tty)：一個有意思的假tty方案
  
 ## 食物跟飲料
  * 檸檬柚子茶：這種能當果醬的沖泡飲料我一直很喜歡
